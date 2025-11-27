@@ -1,0 +1,15 @@
+
+# C++
+build
+
+# Python
+.venv
+venv
+*.pyc
+
+# Rust
+
+# Go
+
+# Java
+*.class
