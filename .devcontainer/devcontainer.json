@@ -1,0 +1,129 @@
+{
+  "name": "Tome of Knowledge - Dev Environment",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".",
+    "args": {
+      "USERNAME": "devuser",
+      "USER_UID": "1000",
+      "USER_GID": "1000"
+    }
+  },
+  
+  "runArgs": [
+    "--name=tome-of-knowledge-dev",
+    "--hostname=tome-dev",
+    "--env-file=${localWorkspaceFolder}/.env"
+  ],
+
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
+  ],
+
+  "workspaceFolder": "/workspace",
+
+  "postStartCommand": "bash /workspace/.devcontainer/entrypoint.sh",
+
+  "postCreateCommand": "echo 'Tome of Knowledge DevContainer Created!'",
+
+  "forwardPorts": [
+    3000,
+    4200,
+    5000,
+    5173,
+    8000,
+    8080,
+    8888,
+    9000
+  ],
+
+  "portsAttributes": {
+    "3000": {
+      "label": "React/Next.js",
+      "onAutoForward": "notify"
+    },
+    "4200": {
+      "label": "Angular",
+      "onAutoForward": "notify"
+    },
+    "5000": {
+      "label": "Flask/FastAPI",
+      "onAutoForward": "notify"
+    },
+    "5173": {
+      "label": "Vite",
+      "onAutoForward": "notify"
+    },
+    "8000": {
+      "label": "Django/General",
+      "onAutoForward": "notify"
+    },
+    "8080": {
+      "label": "General Web",
+      "onAutoForward": "notify"
+    },
+    "8888": {
+      "label": "Jupyter",
+      "onAutoForward": "notify"
+    },
+    "9000": {
+      "label": "Development Server",
+      "onAutoForward": "notify"
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.fontFamily": "'MesloLGS NF', 'Courier New', monospace",
+        "terminal.integrated.fontSize": 14,
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "terminal.integrated.profiles.linux": {
+          "zsh": {
+            "path": "/bin/zsh"
+          },
+          "bash": {
+            "path": "/bin/bash",
+            "icon": "terminal-bash"
+          }
+        },
+        "editor.tabSize": 4,
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 1000,
+        "files.watcherExclude": {
+          "**/node_modules/**": true,
+          "**/.git/objects/**": true,
+          "**/.git/subtree-cache/**": true,
+          "**/venv/**": true,
+          "**/__pycache__/**": true,
+          "**/dist/**": true,
+          "**/build/**": true
+        }
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "ms-vscode.vscode-typescript-next",
+        "ms-vscode.cpptools-extension-pack",
+        "golang.go",
+        "rust-lang.rust-analyzer",
+        "mhutchie.git-graph",
+        "GitHub.copilot",
+        "formulahendry.code-runner",
+        "PKief.material-icon-theme",
+        "oderwat.indent-rainbow",
+        "christian-kohler.path-intellisense",
+        "leodevbro.blockman",
+        "bierner.github-markdown-preview",
+        "redhat.vscode-xml",
+        "redhat.vscode-yaml"
+      ]
+    }
+  },
+
+  "remoteUser": "devuser"
+}
