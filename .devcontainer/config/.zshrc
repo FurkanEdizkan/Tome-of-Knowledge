@@ -155,23 +155,6 @@ extract() {
     fi
 }
 
-# ========================================
-# Welcome Message
-# ========================================
-
-echo ""
-echo "Welcome to Tome of Knowledge DevContainer!"
-echo ""
-echo "Available languages:"
-python3 --version 2>/dev/null && echo "  ✓ Python $(python3 --version 2>&1 | cut -d' ' -f2)"
-node --version 2>/dev/null && echo "  ✓ Node.js $(node --version)"
-tsc --version 2>/dev/null && echo "  ✓ TypeScript $(tsc --version | cut -d' ' -f2)"
-go version 2>/dev/null && echo "  ✓ $(go version | cut -d' ' -f3-4)"
-rustc --version 2>/dev/null && echo "  ✓ Rust $(rustc --version | cut -d' ' -f2)"
-echo ""
-echo "Type 'help' or check aliases with 'alias'"
-echo ""
-
 # FZF configuration
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
