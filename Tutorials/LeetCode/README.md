@@ -21,4 +21,8 @@ rustc <solution>.rs
 # C++
 g++ -o <executable> <solution>.cpp
 ./<executable>
+
+# Typescript
+npx ts-node "<solution>.ts"
+
 ```
