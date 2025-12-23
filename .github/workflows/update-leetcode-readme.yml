@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # daily
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,10 +23,16 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Sync with remote
+        run: |
+          git fetch origin
+          git checkout main
+          git pull origin main --rebase
+
       - name: Generate LeetCode README
         run: python .github/scripts/generate_leetcode_readme.py
 
-      - name: Commit README if changed
+      - name: Commit & push README if changed
         run: |
           if git diff --quiet Tutorials/LeetCode/README.md; then
             echo "No README changes detected. Exiting."
@@ -38,4 +44,5 @@ jobs:
 
           git add Tutorials/LeetCode/README.md
           git commit -m "Auto-update LeetCode README (daily)"
+
           git push origin main
