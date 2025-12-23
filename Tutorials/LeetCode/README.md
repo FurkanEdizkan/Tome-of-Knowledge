@@ -1,5 +1,7 @@
 # Leet Code Questions & Solutions
 
+<!-- AUTO-GENERATED-START -->
+<!-- AUTO-GENERATED-END -->
 
 ## Test Codes
 
