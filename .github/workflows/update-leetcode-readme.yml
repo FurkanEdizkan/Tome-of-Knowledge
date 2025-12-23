@@ -1,0 +1,41 @@
+name: Daily LeetCode README Update
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate LeetCode README
+        run: python .github/scripts/generate_leetcode_readme.py
+
+      - name: Commit README if changed
+        run: |
+          if git diff --quiet; then
+            echo "No README changes detected. Exiting."
+            exit 0
+          fi
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add Tutorials/LeetCode/README.md
+          git commit -m "Auto-update LeetCode README (daily)"
+          git push origin main
