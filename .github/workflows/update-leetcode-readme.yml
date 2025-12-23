@@ -3,6 +3,10 @@ name: Auto-update LeetCode README
 permissions:
   contents: write
 
+concurrency:
+  group: leetcode-readme
+  cancel-in-progress: true
+
 on:
   push:
     paths:
@@ -12,6 +16,7 @@ on:
 
 jobs:
   update-readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
@@ -32,13 +37,14 @@ jobs:
         run: |
           if git diff --quiet; then
             echo "No README changes"
-          else
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-
-            git add Tutorials/LeetCode/README.md
-            git commit -m "Auto-update LeetCode README"
-
-            git pull --rebase origin main
-            git push origin main
+            exit 0
           fi
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add Tutorials/LeetCode/README.md
+          git commit -m "Auto-update LeetCode README"
+
+          git pull --rebase origin main
+          git push origin main
