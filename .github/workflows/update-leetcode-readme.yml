@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit README if changed
         run: |
-          if git diff --quiet; then
+          if git diff --quiet Tutorials/LeetCode/README.md; then
             echo "No README changes detected. Exiting."
             exit 0
           fi
