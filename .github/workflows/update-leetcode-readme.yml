@@ -1,5 +1,8 @@
 name: Auto-update LeetCode README
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
