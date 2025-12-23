@@ -78,9 +78,9 @@
   - [Python](Solutions/15-3Sum.py)
 
 ### 16. 3Sum Closest
-- 📄 [Question](Questions/16-3Sum Closest.md)
+- 📄 [Question](Questions/16-3Sum_Closest.md)
 - 💻 Solutions:
-  - [TypeScript](Solutions/16-3Sum Closest.ts)
+  - [TypeScript](Solutions/16-3Sum_Closest.ts)
 
 ### 18. 4Sum
 - 📄 [Question](Questions/18-4Sum.md)
