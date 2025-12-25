@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
 
       - name: Generate README
-        run: python Tutorials/LeetCode/generate_leetcode_readme.py
+        run: python .github/scripts/generate_leetcode_readme.py
 
       - name: Check for changes
         id: diff
