@@ -14,7 +14,7 @@
 ### 3. Longest Substring Without Repeating Characters
 - 📄 [Question](Questions/3-Longest_Substring_Without_Repeating_Characters.md)
 - 💻 Solutions:
-  - [Python](Solutions/3- Longest_Substring_Without_Repeating_Characters.py)
+  - [Python](Solutions/3-Longest_Substring_Without_Repeating_Characters.py)
 
 ### 4. Median of Two Sorted Arrays
 - 📄 [Question](Questions/4-Median_of_Two_Sorted_Arrays.md)
@@ -150,6 +150,16 @@
 - 📄 [Question](Questions/30-Substring_with_Concatenation_of_All_Words.md)
 - 💻 Solutions:
   - [Python](Solutions/30-Substring_with_Concatenation_of_All_Words.py)
+
+### 31. Next Permutation
+- 📄 [Question](Questions/31-Next_Permutation.md)
+- 💻 Solutions:
+  - [Rust](Solutions/31-Next_Permutation.rs)
+
+### 32. Longest Valid Parentheses
+- 📄 [Question](Questions/32-Longest_Valid_Parentheses.md)
+- 💻 Solutions:
+  - [Python](Solutions/32-Longest_Valid_Parentheses.py)
 
 <!-- AUTO-GENERATED-END -->
 
