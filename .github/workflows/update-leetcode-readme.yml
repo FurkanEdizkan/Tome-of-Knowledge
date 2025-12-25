@@ -1,33 +1,33 @@
-name: Daily LeetCode README Update
-
-permissions:
-  contents: write
-  pull-requests: write
+name: Update LeetCode README (daily)
 
 on:
   schedule:
     - cron: "0 2 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0   # 🔴 REQUIRED
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
 
-      - name: Generate LeetCode README
-        run: python .github/scripts/generate_leetcode_readme.py
+      - name: Generate README
+        run: python Tutorials/LeetCode/generate_readme.py
 
-      - name: Check for README changes
+      - name: Check for changes
         id: diff
         run: |
           if git diff --quiet Tutorials/LeetCode/README.md; then
@@ -36,14 +36,14 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Create PR
+      - name: Create Pull Request
         if: steps.diff.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
           branch: bot/update-leetcode-readme
+          delete-branch: true
           title: "Auto-update LeetCode README"
           commit-message: "Auto-update LeetCode README"
           body: |
-            This PR was automatically generated.
-            It updates the LeetCode README index.
-          delete-branch: true
+            This PR updates the LeetCode README automatically.
+          base: main
