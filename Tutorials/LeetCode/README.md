@@ -1,4 +1,4 @@
-# Leet Code Questions & Solutions
+# LeetCode Questions & Solutions
 
 <!-- AUTO-GENERATED-START -->
 ### 1. Two Sum
