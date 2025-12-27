@@ -161,6 +161,11 @@
 - 💻 Solutions:
   - [Python](Solutions/32-Longest_Valid_Parentheses.py)
 
+### 3159. Find Occurrences of an Element in an Array
+- 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
+- 💻 Solutions:
+  - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
+
 <!-- AUTO-GENERATED-END -->
 
 ## Test Codes
