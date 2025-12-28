@@ -166,6 +166,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
 
+### 3754. Concatenate Non-Zero Digits and Multiply by Sum I
+- 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
+- 💻 Solutions:
+  - [Go](Solutions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.go)
+
 <!-- AUTO-GENERATED-END -->
 
 ## Test Codes
