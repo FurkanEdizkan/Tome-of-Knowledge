@@ -169,7 +169,7 @@
 ### 624. Maximum Distance in Arrays
 - 📄 [Question](Questions/624-Maximum_Distance_in_Arrays.md)
 - 💻 Solutions:
-  - [Python](Solutions/624-Maximum_Distance_in_Arrays.py)
+  - [Go](Solutions/624-Maximum_Distance_in_Arrays.go)
 
 ### 3159. Find Occurrences of an Element in an Array
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
