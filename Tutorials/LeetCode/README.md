@@ -171,6 +171,11 @@
 - 💻 Solutions:
   - [Go](Solutions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.go)
 
+### 3755. Find Maximum Balanced XOR Subarray Length
+- 📄 [Question](Questions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.md)
+- 💻 Solutions:
+  - [Go](Solutions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.go)
+
 <!-- AUTO-GENERATED-END -->
 
 ## Test Codes
