@@ -161,6 +161,16 @@
 - 💻 Solutions:
   - [Python](Solutions/32-Longest_Valid_Parentheses.py)
 
+### 391. Perfect Rectangle
+- 📄 [Question](Questions/391-Perfect_Rectangle.md)
+- 💻 Solutions:
+  - [Go](Solutions/391-Perfect_Rectangle.go)
+
+### 624. Maximum Distance in Arrays
+- 📄 [Question](Questions/624-Maximum_Distance_in_Arrays.md)
+- 💻 Solutions:
+  - [Go](Solutions/624-Maximum_Distance_in_Arrays.go)
+
 ### 3159. Find Occurrences of an Element in an Array
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
 - 💻 Solutions:
@@ -170,6 +180,11 @@
 - 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
 - 💻 Solutions:
   - [Go](Solutions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.go)
+
+### 3755. Find Maximum Balanced XOR Subarray Length
+- 📄 [Question](Questions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.md)
+- 💻 Solutions:
+  - [Go](Solutions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.go)
 
 <!-- AUTO-GENERATED-END -->
 

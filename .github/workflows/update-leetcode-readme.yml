@@ -38,12 +38,26 @@ jobs:
 
       - name: Create Pull Request
         if: steps.diff.outputs.changed == 'true'
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
+          token: ${{ secrets.PAT_TOKEN }}
           branch: bot/update-leetcode-readme
           delete-branch: true
           title: "Auto-update LeetCode README"
           commit-message: "Auto-update LeetCode README"
           body: |
             This PR updates the LeetCode README automatically.
+            
+            Auto-merging...
           base: main
+
+      - name: Auto-merge PR
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} \
+            --admin \
+            --squash \
+            --delete-branch
