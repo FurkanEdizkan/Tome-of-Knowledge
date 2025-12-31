@@ -171,6 +171,11 @@
 - 💻 Solutions:
   - [Go](Solutions/624-Maximum_Distance_in_Arrays.go)
 
+### 2816. Double a Number Represented as a Linked List
+- 📄 [Question](Questions/2816-Double_a_Number_Represented_as_a_Linked_List.md)
+- 💻 Solutions:
+  - [Go](Solutions/2816-Double_a_Number_Represented_as_a_Linked_List.go)
+
 ### 3159. Find Occurrences of an Element in an Array
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
 - 💻 Solutions:
