@@ -161,6 +161,11 @@
 - 💻 Solutions:
   - [Python](Solutions/32-Longest_Valid_Parentheses.py)
 
+### 49. Group Anagrams
+- 📄 [Question](Questions/49-Group_Anagrams.md)
+- 💻 Solutions:
+  - [Go](Solutions/49-Group_Anagrams.go)
+
 ### 391. Perfect Rectangle
 - 📄 [Question](Questions/391-Perfect_Rectangle.md)
 - 💻 Solutions:
@@ -170,6 +175,31 @@
 - 📄 [Question](Questions/624-Maximum_Distance_in_Arrays.md)
 - 💻 Solutions:
   - [Go](Solutions/624-Maximum_Distance_in_Arrays.go)
+
+### 835. Image Overlap
+- 📄 [Question](Questions/835-Image_Overlap.md)
+- 💻 Solutions:
+  - [Go](Solutions/835-Image_Overlap.go)
+
+### 1422. Maximum Score After Splitting a String
+- 📄 [Question](Questions/1422-Maximum_Score_After_Splitting_a_String.md)
+- 💻 Solutions:
+  - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
+
+### 1864. Minimum Number of Swaps to Make the Binary String Alternating
+- 📄 [Question](Questions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.md)
+- 💻 Solutions:
+  - [Rust](Solutions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.rs)
+
+### 2460. Apply Operations to an Array
+- 📄 [Question](Questions/2460-Apply_Operations_to_an_Array.md)
+- 💻 Solutions:
+  - [Go](Solutions/2460-Apply_Operations_to_an_Array.go)
+
+### 2542. Maximum Subsequence Score
+- 📄 [Question](Questions/2542-Maximum_Subsequence_Score.md)
+- 💻 Solutions:
+  - [Go](Solutions/2542-Maximum_Subsequence_Score.go)
 
 ### 2816. Double a Number Represented as a Linked List
 - 📄 [Question](Questions/2816-Double_a_Number_Represented_as_a_Linked_List.md)
