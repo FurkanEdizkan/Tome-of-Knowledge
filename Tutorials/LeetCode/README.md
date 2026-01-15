@@ -181,6 +181,11 @@
 - 💻 Solutions:
   - [Go](Solutions/835-Image_Overlap.go)
 
+### 1416. Restore The Array
+- 📄 [Question](Questions/1416-Restore_The_Array.md)
+- 💻 Solutions:
+  - [Rust](Solutions/1416-Restore_The_Array.rs)
+
 ### 1422. Maximum Score After Splitting a String
 - 📄 [Question](Questions/1422-Maximum_Score_After_Splitting_a_String.md)
 - 💻 Solutions:
