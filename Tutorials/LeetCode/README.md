@@ -196,6 +196,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.rs)
 
+### 2166. Design Bitset
+- 📄 [Question](Questions/2166-Design_Bitset.md)
+- 💻 Solutions:
+  - [Go](Solutions/2166-Design_Bitset.go)
+
 ### 2460. Apply Operations to an Array
 - 📄 [Question](Questions/2460-Apply_Operations_to_an_Array.md)
 - 💻 Solutions:
