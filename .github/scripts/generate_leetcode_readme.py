@@ -15,6 +15,8 @@ LANG_MAP = {
     ".go": "Go",
     ".java": "Java",
     ".ts": "TypeScript",
+    ".sql": "SQL",
+    ".psql": "PostgreSQL"
 }
 
 def parse_question_filename(path):
