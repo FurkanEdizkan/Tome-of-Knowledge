@@ -196,6 +196,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.rs)
 
+### 2166. Design Bitset
+- 📄 [Question](Questions/2166-Design_Bitset.md)
+- 💻 Solutions:
+  - [Go](Solutions/2166-Design_Bitset.go)
+
 ### 2460. Apply Operations to an Array
 - 📄 [Question](Questions/2460-Apply_Operations_to_an_Array.md)
 - 💻 Solutions:
@@ -215,6 +220,11 @@
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
 - 💻 Solutions:
   - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
+
+### 3454. Separate Squares II
+- 📄 [Question](Questions/3454-Separate_Squares_II.md)
+- 💻 Solutions:
+  - [Go](Solutions/3454-Separate_Squares_II.go)
 
 ### 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 - 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
