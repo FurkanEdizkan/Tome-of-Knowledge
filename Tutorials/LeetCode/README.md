@@ -166,6 +166,11 @@
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
 
+### 182. Duplicate Emails
+- 📄 [Question](Questions/182-Duplicate Emails.md)
+- 💻 Solutions:
+  - [PostgreSQL](Solutions/182-Duplicate Emails.psql)
+
 ### 391. Perfect Rectangle
 - 📄 [Question](Questions/391-Perfect_Rectangle.md)
 - 💻 Solutions:
