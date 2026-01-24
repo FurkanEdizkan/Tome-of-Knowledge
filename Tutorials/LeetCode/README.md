@@ -167,9 +167,14 @@
   - [Go](Solutions/49-Group_Anagrams.go)
 
 ### 182. Duplicate Emails
-- 📄 [Question](Questions/182-Duplicate Emails.md)
+- 📄 [Question](Questions/182-Duplicate_Emails.md)
 - 💻 Solutions:
-  - [PostgreSQL](Solutions/182-Duplicate Emails.psql)
+  - [PostgreSQL](Solutions/182-Duplicate_Emails.psql)
+
+### 260. Single Number III
+- 📄 [Question](Questions/260-Single_Number_III.md)
+- 💻 Solutions:
+  - [Go](Solutions/260-Single_Number_III.go)
 
 ### 391. Perfect Rectangle
 - 📄 [Question](Questions/391-Perfect_Rectangle.md)
@@ -230,6 +235,11 @@
 - 📄 [Question](Questions/3454-Separate_Squares_II.md)
 - 💻 Solutions:
   - [Go](Solutions/3454-Separate_Squares_II.go)
+
+### 3455. Shortest Matching Substring
+- 📄 [Question](Questions/3455-Shortest_Matching_Substring.md)
+- 💻 Solutions:
+  - [C++](Solutions/3455-Shortest_Matching_Substring.cpp)
 
 ### 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 - 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
