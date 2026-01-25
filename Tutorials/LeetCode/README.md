@@ -176,6 +176,11 @@
 - 💻 Solutions:
   - [Go](Solutions/260-Single_Number_III.go)
 
+### 262. Trips and Users
+- 📄 [Question](Questions/262-Trips_and_Users.md)
+- 💻 Solutions:
+  - [PostgreSQL](Solutions/262-Trips_and_Users.psql)
+
 ### 391. Perfect Rectangle
 - 📄 [Question](Questions/391-Perfect_Rectangle.md)
 - 💻 Solutions:
