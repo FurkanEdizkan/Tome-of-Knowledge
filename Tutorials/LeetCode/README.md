@@ -161,6 +161,26 @@
 - 💻 Solutions:
   - [Python](Solutions/32-Longest_Valid_Parentheses.py)
 
+### 33. Search in Rotated Sorted Array
+- 📄 [Question](Questions/33-Search_in_Rotated_Sorted_Array.md)
+- 💻 Solutions:
+  - [Go](Solutions/33-Search_in_Rotated_Sorted_Array.go)
+
+### 34. Find First and Last Position of Element in Sorted Array
+- 📄 [Question](Questions/34-Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
+- 💻 Solutions:
+  - [Go](Solutions/34-Find_First_and_Last_Position_of_Element_in_Sorted_Array.go)
+
+### 35. Search Insert Position
+- 📄 [Question](Questions/35-Search_Insert_Position.md)
+- 💻 Solutions:
+  - [Go](Solutions/35-Search_Insert_Position.go)
+
+### 36. Valid Sudoku
+- 📄 [Question](Questions/36-Valid_Sudoku.md)
+- 💻 Solutions:
+  - [Go](Solutions/36-Valid_Sudoku.go)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
