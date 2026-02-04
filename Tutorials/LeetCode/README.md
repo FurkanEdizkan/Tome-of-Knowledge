@@ -206,6 +206,11 @@
 - 💻 Solutions:
   - [Go](Solutions/391-Perfect_Rectangle.go)
 
+### 559. Maximum Depth of N-ary Tree
+- 📄 [Question](Questions/559-Maximum_Depth_of_N-ary_Tree.md)
+- 💻 Solutions:
+  - [Go](Solutions/559-Maximum_Depth_of_N-ary_Tree.go)
+
 ### 624. Maximum Distance in Arrays
 - 📄 [Question](Questions/624-Maximum_Distance_in_Arrays.md)
 - 💻 Solutions:
@@ -225,6 +230,11 @@
 - 📄 [Question](Questions/1422-Maximum_Score_After_Splitting_a_String.md)
 - 💻 Solutions:
   - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
+
+### 1712. Ways to Split Array Into Three Subarrays
+- 📄 [Question](Questions/1712-Ways_to_Split_Array_Into_Three_Subarrays.md)
+- 💻 Solutions:
+  - [Go](Solutions/1712-Ways_to_Split_Array_Into_Three_Subarrays.go)
 
 ### 1864. Minimum Number of Swaps to Make the Binary String Alternating
 - 📄 [Question](Questions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.md)
