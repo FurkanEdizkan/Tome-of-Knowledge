@@ -296,6 +296,11 @@
 - 💻 Solutions:
   - [C++](Solutions/3829-Design_Ride_Sharing_System.cpp)
 
+### 3830. Longest Alternating Subarray After Removing At Most One Element
+- 📄 [Question](Questions/3830-Longest_Alternating_Subarray_After_Removing_At_Most_One_Element.md)
+- 💻 Solutions:
+  - [C++](Solutions/3830-Longest_Alternating_Subarray_After_Removing_At_Most_One_Element.cpp)
+
 <!-- AUTO-GENERATED-END -->
 
 ## Test Codes
