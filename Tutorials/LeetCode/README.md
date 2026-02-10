@@ -261,6 +261,11 @@
 - 💻 Solutions:
   - [Go](Solutions/2816-Double_a_Number_Represented_as_a_Linked_List.go)
 
+### 2961. Double Modular Exponentiation
+- 📄 [Question](Questions/2961-Double_Modular_Exponentiation.md)
+- 💻 Solutions:
+  - [C++](Solutions/2961-Double_Modular_Exponentiation.cpp)
+
 ### 3159. Find Occurrences of an Element in an Array
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
 - 💻 Solutions:
@@ -285,6 +290,16 @@
 - 📄 [Question](Questions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.md)
 - 💻 Solutions:
   - [Go](Solutions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.go)
+
+### 3829. Design Ride Sharing System
+- 📄 [Question](Questions/3829-Design_Ride_Sharing_System.md)
+- 💻 Solutions:
+  - [C++](Solutions/3829-Design_Ride_Sharing_System.cpp)
+
+### 3830. Longest Alternating Subarray After Removing At Most One Element
+- 📄 [Question](Questions/3830-Longest_Alternating_Subarray_After_Removing_At_Most_One_Element.md)
+- 💻 Solutions:
+  - [C++](Solutions/3830-Longest_Alternating_Subarray_After_Removing_At_Most_One_Element.cpp)
 
 <!-- AUTO-GENERATED-END -->
 
