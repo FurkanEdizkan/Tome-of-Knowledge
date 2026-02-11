@@ -251,6 +251,11 @@
 - 💻 Solutions:
   - [Go](Solutions/2460-Apply_Operations_to_an_Array.go)
 
+### 2506. Count Pairs Of Similar Strings
+- 📄 [Question](Questions/2506-Count_Pairs_Of_Similar_Strings.md)
+- 💻 Solutions:
+  - [Go](Solutions/2506-Count_Pairs_Of_Similar_Strings.go)
+
 ### 2542. Maximum Subsequence Score
 - 📄 [Question](Questions/2542-Maximum_Subsequence_Score.md)
 - 💻 Solutions:
