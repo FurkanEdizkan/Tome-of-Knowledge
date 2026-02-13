@@ -236,6 +236,11 @@
 - 💻 Solutions:
   - [Go](Solutions/1712-Ways_to_Split_Array_Into_Three_Subarrays.go)
 
+### 1807. Evaluate the Bracket Pairs of a String
+- 📄 [Question](Questions/1807-Evaluate_the_Bracket_Pairs_of_a_String.md)
+- 💻 Solutions:
+  - [Go](Solutions/1807-Evaluate_the_Bracket_Pairs_of_a_String.go)
+
 ### 1864. Minimum Number of Swaps to Make the Binary String Alternating
 - 📄 [Question](Questions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.md)
 - 💻 Solutions:
