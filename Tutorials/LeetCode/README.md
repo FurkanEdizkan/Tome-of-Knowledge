@@ -281,6 +281,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
 
+### 3374. First Letter Capitalization II
+- 📄 [Question](Questions/3374-First_Letter_Capitalization_II.md)
+- 💻 Solutions:
+  - [PostgreSQL](Solutions/3374-First_Letter_Capitalization_II.psql)
+
 ### 3454. Separate Squares II
 - 📄 [Question](Questions/3454-Separate_Squares_II.md)
 - 💻 Solutions:
