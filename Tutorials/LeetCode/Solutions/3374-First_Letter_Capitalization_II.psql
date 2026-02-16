@@ -1,0 +1,38 @@
+WITH chars AS (
+    SELECT 
+        content_id,
+        content_text,
+        generate_series(1, LENGTH(content_text)) AS pos
+    FROM user_content
+),
+char_processing AS (
+    SELECT 
+        content_id,
+        content_text,
+        pos,
+        SUBSTRING(content_text FROM pos FOR 1) AS curr_char,
+        COALESCE(SUBSTRING(content_text FROM pos-1 FOR 1), ' ') AS prev_char
+    FROM chars
+),
+converted_chars AS (
+    SELECT 
+        content_id,
+        content_text,
+        pos,
+        CASE 
+            WHEN curr_char ~ '[A-Za-z]' AND (prev_char = ' ' OR prev_char = '-' OR pos = 1) THEN
+                UPPER(curr_char)
+            WHEN curr_char ~ '[A-Za-z]' THEN
+                LOWER(curr_char)
+            ELSE
+                curr_char
+        END AS new_char
+    FROM char_processing
+)
+SELECT 
+    content_id,
+    content_text AS original_text,
+    STRING_AGG(new_char, '' ORDER BY pos) AS converted_text
+FROM converted_chars
+GROUP BY content_id, content_text
+ORDER BY content_id;

@@ -236,6 +236,11 @@
 - 💻 Solutions:
   - [Go](Solutions/1712-Ways_to_Split_Array_Into_Three_Subarrays.go)
 
+### 1807. Evaluate the Bracket Pairs of a String
+- 📄 [Question](Questions/1807-Evaluate_the_Bracket_Pairs_of_a_String.md)
+- 💻 Solutions:
+  - [Go](Solutions/1807-Evaluate_the_Bracket_Pairs_of_a_String.go)
+
 ### 1864. Minimum Number of Swaps to Make the Binary String Alternating
 - 📄 [Question](Questions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.md)
 - 💻 Solutions:
@@ -250,6 +255,11 @@
 - 📄 [Question](Questions/2460-Apply_Operations_to_an_Array.md)
 - 💻 Solutions:
   - [Go](Solutions/2460-Apply_Operations_to_an_Array.go)
+
+### 2506. Count Pairs Of Similar Strings
+- 📄 [Question](Questions/2506-Count_Pairs_Of_Similar_Strings.md)
+- 💻 Solutions:
+  - [Go](Solutions/2506-Count_Pairs_Of_Similar_Strings.go)
 
 ### 2542. Maximum Subsequence Score
 - 📄 [Question](Questions/2542-Maximum_Subsequence_Score.md)
@@ -270,6 +280,11 @@
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
 - 💻 Solutions:
   - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
+
+### 3374. First Letter Capitalization II
+- 📄 [Question](Questions/3374-First_Letter_Capitalization_II.md)
+- 💻 Solutions:
+  - [PostgreSQL](Solutions/3374-First_Letter_Capitalization_II.psql)
 
 ### 3454. Separate Squares II
 - 📄 [Question](Questions/3454-Separate_Squares_II.md)
@@ -295,6 +310,11 @@
 - 📄 [Question](Questions/3829-Design_Ride_Sharing_System.md)
 - 💻 Solutions:
   - [C++](Solutions/3829-Design_Ride_Sharing_System.cpp)
+
+### 3830. Longest Alternating Subarray After Removing At Most One Element
+- 📄 [Question](Questions/3830-Longest_Alternating_Subarray_After_Removing_At_Most_One_Element.md)
+- 💻 Solutions:
+  - [C++](Solutions/3830-Longest_Alternating_Subarray_After_Removing_At_Most_One_Element.cpp)
 
 <!-- AUTO-GENERATED-END -->
 
