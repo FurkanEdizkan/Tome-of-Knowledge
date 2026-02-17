@@ -221,6 +221,11 @@
 - 💻 Solutions:
   - [Go](Solutions/835-Image_Overlap.go)
 
+### 983. Minimum Cost For Tickets
+- 📄 [Question](Questions/983-Minimum_Cost_For_Tickets.md)
+- 💻 Solutions:
+  - [Go](Solutions/983-Minimum_Cost_For_Tickets.go)
+
 ### 1416. Restore The Array
 - 📄 [Question](Questions/1416-Restore_The_Array.md)
 - 💻 Solutions:
