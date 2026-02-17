@@ -1,0 +1,63 @@
+name: Update HackerRank README (daily)
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate README
+        run: python .github/scripts/generate_hackerrank_readme.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet Tutorials/HackerRank/README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request
+        if: steps.diff.outputs.changed == 'true'
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          branch: bot/update-hackerrank-readme
+          delete-branch: true
+          title: "Auto-update HackerRank README"
+          commit-message: "Auto-update HackerRank README"
+          body: |
+            This PR updates the HackerRank README automatically.
+            
+            Auto-merging...
+          base: main
+
+      - name: Auto-merge PR
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} \
+            --admin \
+            --squash \
+            --delete-branch
