@@ -221,6 +221,11 @@
 - 💻 Solutions:
   - [Go](Solutions/835-Image_Overlap.go)
 
+### 983. Minimum Cost For Tickets
+- 📄 [Question](Questions/983-Minimum_Cost_For_Tickets.md)
+- 💻 Solutions:
+  - [Go](Solutions/983-Minimum_Cost_For_Tickets.go)
+
 ### 1416. Restore The Array
 - 📄 [Question](Questions/1416-Restore_The_Array.md)
 - 💻 Solutions:
@@ -280,6 +285,11 @@
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
 - 💻 Solutions:
   - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
+
+### 3374. First Letter Capitalization II
+- 📄 [Question](Questions/3374-First_Letter_Capitalization_II.md)
+- 💻 Solutions:
+  - [PostgreSQL](Solutions/3374-First_Letter_Capitalization_II.psql)
 
 ### 3454. Separate Squares II
 - 📄 [Question](Questions/3454-Separate_Squares_II.md)
