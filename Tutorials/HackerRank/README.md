@@ -6,6 +6,11 @@
 - 💻 Solutions:
   - [Python](Solutions/Count_Elements_Greater_Than_Previous_Average.py)
 
+### Find the Smallest Missing Positive Integer
+- 📄 [Question](Questions/Find the Smallest Missing Positive Integer.md)
+- 💻 Solutions:
+  - [Python](Solutions/Find the Smallest Missing Positive Integer.py)
+
 <!-- AUTO-GENERATED-END -->
 
 ## Test Codes
