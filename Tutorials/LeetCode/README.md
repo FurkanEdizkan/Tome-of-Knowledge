@@ -291,6 +291,11 @@
 - 💻 Solutions:
   - [PostgreSQL](Solutions/3374-First_Letter_Capitalization_II.psql)
 
+### 3375. Minimum Operations to Make Array Values Equal to K
+- 📄 [Question](Questions/3375-Minimum_Operations_to_Make_Array_Values_Equal_to_K.md)
+- 💻 Solutions:
+  - [Python](Solutions/3375-Minimum_Operations_to_Make_Array_Values_Equal_to_K.py)
+
 ### 3454. Separate Squares II
 - 📄 [Question](Questions/3454-Separate_Squares_II.md)
 - 💻 Solutions:
