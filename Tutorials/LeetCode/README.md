@@ -186,6 +186,11 @@
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
 
+### 115. Distinct Subsequences
+- 📄 [Question](Questions/115-Distinct_Subsequences.md)
+- 💻 Solutions:
+  - [Go](Solutions/115-Distinct_Subsequences.go)
+
 ### 182. Duplicate Emails
 - 📄 [Question](Questions/182-Duplicate_Emails.md)
 - 💻 Solutions:
@@ -235,6 +240,11 @@
 - 📄 [Question](Questions/1422-Maximum_Score_After_Splitting_a_String.md)
 - 💻 Solutions:
   - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
+
+### 1498. Number of Subsequences That Satisfy the Given Sum Condition
+- 📄 [Question](Questions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.md)
+- 💻 Solutions:
+  - [Go](Solutions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.go)
 
 ### 1712. Ways to Split Array Into Three Subarrays
 - 📄 [Question](Questions/1712-Ways_to_Split_Array_Into_Three_Subarrays.md)
