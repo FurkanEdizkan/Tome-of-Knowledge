@@ -296,6 +296,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
 
+### 3365. Rearrange K Substrings to Form Target String
+- 📄 [Question](Questions/3365-Rearrange_K_Substrings_to_Form_Target_String.md)
+- 💻 Solutions:
+  - [Go](Solutions/3365-Rearrange_K_Substrings_to_Form_Target_String.go)
+
 ### 3374. First Letter Capitalization II
 - 📄 [Question](Questions/3374-First_Letter_Capitalization_II.md)
 - 💻 Solutions:
