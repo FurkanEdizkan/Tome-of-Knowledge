@@ -331,6 +331,11 @@
 - 💻 Solutions:
   - [Go](Solutions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.go)
 
+### 3812. Minimum Edge Toggles on a Tree
+- 📄 [Question](Questions/3812-Minimum_Edge_Toggles_on_a_Tree.md)
+- 💻 Solutions:
+  - [Go](Solutions/3812-Minimum_Edge_Toggles_on_a_Tree.go)
+
 ### 3829. Design Ride Sharing System
 - 📄 [Question](Questions/3829-Design_Ride_Sharing_System.md)
 - 💻 Solutions:
