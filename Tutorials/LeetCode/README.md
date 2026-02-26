@@ -186,6 +186,11 @@
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
 
+### 115. Distinct Subsequences
+- 📄 [Question](Questions/115-Distinct_Subsequences.md)
+- 💻 Solutions:
+  - [Go](Solutions/115-Distinct_Subsequences.go)
+
 ### 182. Duplicate Emails
 - 📄 [Question](Questions/182-Duplicate_Emails.md)
 - 💻 Solutions:
@@ -235,6 +240,11 @@
 - 📄 [Question](Questions/1422-Maximum_Score_After_Splitting_a_String.md)
 - 💻 Solutions:
   - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
+
+### 1498. Number of Subsequences That Satisfy the Given Sum Condition
+- 📄 [Question](Questions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.md)
+- 💻 Solutions:
+  - [Go](Solutions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.go)
 
 ### 1712. Ways to Split Array Into Three Subarrays
 - 📄 [Question](Questions/1712-Ways_to_Split_Array_Into_Three_Subarrays.md)
@@ -286,6 +296,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/3159-Find_Occurrences_of_an_Element_in_an_Array.rs)
 
+### 3365. Rearrange K Substrings to Form Target String
+- 📄 [Question](Questions/3365-Rearrange_K_Substrings_to_Form_Target_String.md)
+- 💻 Solutions:
+  - [Go](Solutions/3365-Rearrange_K_Substrings_to_Form_Target_String.go)
+
 ### 3374. First Letter Capitalization II
 - 📄 [Question](Questions/3374-First_Letter_Capitalization_II.md)
 - 💻 Solutions:
@@ -315,6 +330,11 @@
 - 📄 [Question](Questions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.md)
 - 💻 Solutions:
   - [Go](Solutions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.go)
+
+### 3812. Minimum Edge Toggles on a Tree
+- 📄 [Question](Questions/3812-Minimum_Edge_Toggles_on_a_Tree.md)
+- 💻 Solutions:
+  - [Go](Solutions/3812-Minimum_Edge_Toggles_on_a_Tree.go)
 
 ### 3829. Design Ride Sharing System
 - 📄 [Question](Questions/3829-Design_Ride_Sharing_System.md)

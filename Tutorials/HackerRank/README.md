@@ -7,9 +7,9 @@
   - [Python](Solutions/Count_Elements_Greater_Than_Previous_Average.py)
 
 ### Find the Smallest Missing Positive Integer
-- 📄 [Question](Questions/Find the Smallest Missing Positive Integer.md)
+- 📄 [Question](Questions/Find_the_Smallest_Missing_Positive_Integer.md)
 - 💻 Solutions:
-  - [Python](Solutions/Find the Smallest Missing Positive Integer.py)
+  - [Python](Solutions/Find_the_Smallest_Missing_Positive_Integer.py)
 
 <!-- AUTO-GENERATED-END -->
 
