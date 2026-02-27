@@ -291,6 +291,11 @@
 - 💻 Solutions:
   - [C++](Solutions/2961-Double_Modular_Exponentiation.cpp)
 
+### 3020. Find the Maximum Number of Elements in Subset
+- 📄 [Question](Questions/3020-Find_the_Maximum_Number_of_Elements_in_Subset.md)
+- 💻 Solutions:
+  - [Rust](Solutions/3020-Find_the_Maximum_Number_of_Elements_in_Subset.rs)
+
 ### 3159. Find Occurrences of an Element in an Array
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
 - 💻 Solutions:
@@ -320,6 +325,11 @@
 - 📄 [Question](Questions/3455-Shortest_Matching_Substring.md)
 - 💻 Solutions:
   - [C++](Solutions/3455-Shortest_Matching_Substring.cpp)
+
+### 3543. Maximum Weighted K-Edge Path
+- 📄 [Question](Questions/3543-Maximum_Weighted_K-Edge_Path.md)
+- 💻 Solutions:
+  - [Python](Solutions/3543-Maximum_Weighted_K-Edge_Path.py)
 
 ### 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 - 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
