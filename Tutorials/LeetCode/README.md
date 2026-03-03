@@ -246,6 +246,11 @@
 - 💻 Solutions:
   - [Go](Solutions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.go)
 
+### 1672. Richest Customer Wealth
+- 📄 [Question](Questions/1672-Richest_Customer_Wealth.md)
+- 💻 Solutions:
+  - [Go](Solutions/1672-Richest_Customer_Wealth.go)
+
 ### 1712. Ways to Split Array Into Three Subarrays
 - 📄 [Question](Questions/1712-Ways_to_Split_Array_Into_Three_Subarrays.md)
 - 💻 Solutions:
