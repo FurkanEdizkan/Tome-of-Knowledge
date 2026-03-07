@@ -241,6 +241,9 @@
 - 💻 Solutions:
   - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
 
+### 1457. PseudoPalindromic Paths in a Binary Tree
+- 📄 [Question](Questions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.md)
+
 ### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 - 📄 [Question](Questions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.md)
 - 💻 Solutions:
@@ -285,6 +288,11 @@
 - 📄 [Question](Questions/2542-Maximum_Subsequence_Score.md)
 - 💻 Solutions:
   - [Go](Solutions/2542-Maximum_Subsequence_Score.go)
+
+### 2614. Prime In Diagonal
+- 📄 [Question](Questions/2614-Prime_In_Diagonal.md)
+- 💻 Solutions:
+  - [Rust](Solutions/2614-Prime_In_Diagonal.rs)
 
 ### 2816. Double a Number Represented as a Linked List
 - 📄 [Question](Questions/2816-Double_a_Number_Represented_as_a_Linked_List.md)
