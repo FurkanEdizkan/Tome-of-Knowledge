@@ -196,6 +196,11 @@
 - 💻 Solutions:
   - [PostgreSQL](Solutions/182-Duplicate_Emails.psql)
 
+### 233. Number of Digit One
+- 📄 [Question](Questions/233-Number_of_Digit_One.md)
+- 💻 Solutions:
+  - [Rust](Solutions/233-Number_of_Digit_One.rs)
+
 ### 260. Single Number III
 - 📄 [Question](Questions/260-Single_Number_III.md)
 - 💻 Solutions:
@@ -243,6 +248,8 @@
 
 ### 1457. PseudoPalindromic Paths in a Binary Tree
 - 📄 [Question](Questions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.md)
+- 💻 Solutions:
+  - [Rust](Solutions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.rs)
 
 ### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 - 📄 [Question](Questions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.md)
