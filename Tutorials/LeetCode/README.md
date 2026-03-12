@@ -181,6 +181,11 @@
 - 💻 Solutions:
   - [Go](Solutions/36-Valid_Sudoku.go)
 
+### 37. Sudoku Solver
+- 📄 [Question](Questions/37-Sudoku_Solver.md)
+- 💻 Solutions:
+  - [Rust](Solutions/37-Sudoku_Solver.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
@@ -275,6 +280,11 @@
 - 📄 [Question](Questions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.md)
 - 💻 Solutions:
   - [Rust](Solutions/1864-Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.rs)
+
+### 1905. Count Sub Islands
+- 📄 [Question](Questions/1905-Count_Sub_Islands.md)
+- 💻 Solutions:
+  - [Rust](Solutions/1905-Count_Sub_Islands.rs)
 
 ### 2166. Design Bitset
 - 📄 [Question](Questions/2166-Design_Bitset.md)
