@@ -186,10 +186,25 @@
 - 💻 Solutions:
   - [Rust](Solutions/37-Sudoku_Solver.rs)
 
+### 38. Count and Say
+- 📄 [Question](Questions/38-Count_and_Say.md)
+- 💻 Solutions:
+  - [Rust](Solutions/38-Count_and_Say.rs)
+
+### 39. Combination Sum
+- 📄 [Question](Questions/39-Combination_Sum.md)
+- 💻 Solutions:
+  - [Rust](Solutions/39-Combination_Sum.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
+
+### 104. Maximum Depth of Binary Tree
+- 📄 [Question](Questions/104-Maximum_Depth_of_Binary_Tree.md)
+- 💻 Solutions:
+  - [Rust](Solutions/104-Maximum_Depth_of_Binary_Tree.rs)
 
 ### 115. Distinct Subsequences
 - 📄 [Question](Questions/115-Distinct_Subsequences.md)
@@ -325,6 +340,11 @@
 - 📄 [Question](Questions/3020-Find_the_Maximum_Number_of_Elements_in_Subset.md)
 - 💻 Solutions:
   - [Rust](Solutions/3020-Find_the_Maximum_Number_of_Elements_in_Subset.rs)
+
+### 3115. Maximum Prime Difference
+- 📄 [Question](Questions/3115-Maximum_Prime_Difference.md)
+- 💻 Solutions:
+  - [Rust](Solutions/3115-Maximum_Prime_Difference.rs)
 
 ### 3159. Find Occurrences of an Element in an Array
 - 📄 [Question](Questions/3159-Find_Occurrences_of_an_Element_in_an_Array.md)
