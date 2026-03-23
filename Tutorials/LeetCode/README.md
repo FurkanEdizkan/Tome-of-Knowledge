@@ -196,6 +196,16 @@
 - 💻 Solutions:
   - [Rust](Solutions/39-Combination_Sum.rs)
 
+### 40. Combination Sum II
+- 📄 [Question](Questions/40-Combination_Sum_II.md)
+- 💻 Solutions:
+  - [Rust](Solutions/40-Combination_Sum_II.rs)
+
+### 41. First Missing Positive
+- 📄 [Question](Questions/41-First_Missing_Positive.md)
+- 💻 Solutions:
+  - [Rust](Solutions/41-First_Missing_Positive.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
