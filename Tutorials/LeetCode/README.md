@@ -196,6 +196,16 @@
 - 💻 Solutions:
   - [Rust](Solutions/39-Combination_Sum.rs)
 
+### 40. Combination Sum II
+- 📄 [Question](Questions/40-Combination_Sum_II.md)
+- 💻 Solutions:
+  - [Rust](Solutions/40-Combination_Sum_II.rs)
+
+### 41. First Missing Positive
+- 📄 [Question](Questions/41-First_Missing_Positive.md)
+- 💻 Solutions:
+  - [Rust](Solutions/41-First_Missing_Positive.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
@@ -245,6 +255,11 @@
 - 📄 [Question](Questions/624-Maximum_Distance_in_Arrays.md)
 - 💻 Solutions:
   - [Go](Solutions/624-Maximum_Distance_in_Arrays.go)
+
+### 768. Max Chunks To Make Sorted II
+- 📄 [Question](Questions/768-Max_Chunks_To_Make_Sorted_II.md)
+- 💻 Solutions:
+  - [Rust](Solutions/768-Max_Chunks_To_Make_Sorted_II.rs)
 
 ### 835. Image Overlap
 - 📄 [Question](Questions/835-Image_Overlap.md)
