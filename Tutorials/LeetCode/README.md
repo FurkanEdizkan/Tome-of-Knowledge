@@ -256,6 +256,11 @@
 - 💻 Solutions:
   - [Go](Solutions/624-Maximum_Distance_in_Arrays.go)
 
+### 768. Max Chunks To Make Sorted II
+- 📄 [Question](Questions/768-Max_Chunks_To_Make_Sorted_II.md)
+- 💻 Solutions:
+  - [Rust](Solutions/768-Max_Chunks_To_Make_Sorted_II.rs)
+
 ### 835. Image Overlap
 - 📄 [Question](Questions/835-Image_Overlap.md)
 - 💻 Solutions:
