@@ -206,6 +206,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/41-First_Missing_Positive.rs)
 
+### 43. Multiply Strings
+- 📄 [Question](Questions/43-Multiply Strings.md)
+- 💻 Solutions:
+  - [Rust](Solutions/43-Multiply Strings.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
