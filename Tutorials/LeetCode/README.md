@@ -211,6 +211,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/43-Multiply Strings.rs)
 
+### 44. Wildcard Matching
+- 📄 [Question](Questions/44-Wildcard_Matching.md)
+- 💻 Solutions:
+  - [Rust](Solutions/44-Wildcard_Matching.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
