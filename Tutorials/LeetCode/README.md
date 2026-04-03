@@ -216,6 +216,21 @@
 - 💻 Solutions:
   - [Rust](Solutions/44-Wildcard_Matching.rs)
 
+### 45. Jump Game II
+- 📄 [Question](Questions/45-Jump_Game_II.md)
+- 💻 Solutions:
+  - [Rust](Solutions/45-Jump_Game_II.rs)
+
+### 46. Permutations
+- 📄 [Question](Questions/46-Permutations.md)
+- 💻 Solutions:
+  - [Rust](Solutions/46-Permutations.rs)
+
+### 47. Permutations II
+- 📄 [Question](Questions/47-Permutations_II.md)
+- 💻 Solutions:
+  - [Rust](Solutions/47-Permutations_II.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
