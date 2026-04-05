@@ -231,6 +231,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/47-Permutations_II.rs)
 
+### 48. Rotate Image
+- 📄 [Question](Questions/48-Rotate_Image.md)
+- 💻 Solutions:
+  - [Rust](Solutions/48-Rotate_Image.rs)
+
 ### 49. Group Anagrams
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
