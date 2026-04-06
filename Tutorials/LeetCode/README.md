@@ -206,10 +206,15 @@
 - 💻 Solutions:
   - [Rust](Solutions/41-First_Missing_Positive.rs)
 
-### 43. Multiply Strings
-- 📄 [Question](Questions/43-Multiply Strings.md)
+### 42. Trapping Rain Water
+- 📄 [Question](Questions/42-Trapping_Rain_Water.md)
 - 💻 Solutions:
-  - [Rust](Solutions/43-Multiply Strings.rs)
+  - [Rust](Solutions/42-Trapping_Rain_Water.rs)
+
+### 43. Multiply Strings
+- 📄 [Question](Questions/43-Multiply_Strings.md)
+- 💻 Solutions:
+  - [Rust](Solutions/43-Multiply_Strings.rs)
 
 ### 44. Wildcard Matching
 - 📄 [Question](Questions/44-Wildcard_Matching.md)
@@ -240,6 +245,11 @@
 - 📄 [Question](Questions/49-Group_Anagrams.md)
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
+
+### 50. Pow(x, n)
+- 📄 [Question](Questions/50-Pow(x, n).md)
+- 💻 Solutions:
+  - [Rust](Solutions/50-Pow(x, n).rs)
 
 ### 104. Maximum Depth of Binary Tree
 - 📄 [Question](Questions/104-Maximum_Depth_of_Binary_Tree.md)
