@@ -251,6 +251,11 @@
 - 💻 Solutions:
   - [Rust](Solutions/50-Pow(x, n).rs)
 
+### 51. N-Queens
+- 📄 [Question](Questions/51-N-Queens.md)
+- 💻 Solutions:
+  - [Rust](Solutions/51-N-Queens.rs)
+
 ### 104. Maximum Depth of Binary Tree
 - 📄 [Question](Questions/104-Maximum_Depth_of_Binary_Tree.md)
 - 💻 Solutions:
