@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+cd "$(dirname "$0")"
+if [ -x ./quick-app-bin ]; then
+  exec ./quick-app-bin "$@"
+fi
+if command -v go >/dev/null 2>&1; then
+  exec go run main.go "$@"
+fi
+printf 'Go is not installed. Install Go or build the binary with:\n  go build -o quick-app-bin main.go\n'
+exit 1
