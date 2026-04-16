@@ -1,5 +1,7 @@
 # LeetCode Questions & Solutions
 
+There are multiple solutions for each question, these are my own solutions for these questions.
+
 <!-- AUTO-GENERATED-START -->
 ### 1. Two Sum
 - 📄 [Question](Questions/1-Two_Sum.md)
