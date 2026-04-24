@@ -253,10 +253,45 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Rust](Solutions/50-Pow(x, n).rs)
 
-### 51. N-Queens
-- 📄 [Question](Questions/51-N-Queens.md)
+### 51. NQueens
+- 📄 [Question](Questions/51-NQueens.md)
 - 💻 Solutions:
-  - [Rust](Solutions/51-N-Queens.rs)
+  - [Rust](Solutions/51-NQueens.rs)
+
+### 52. NQueens II
+- 📄 [Question](Questions/52-NQueens_II.md)
+- 💻 Solutions:
+  - [Rust](Solutions/52-NQueens_II.rs)
+
+### 53. Maximum Subarray
+- 📄 [Question](Questions/53-Maximum_Subarray.md)
+- 💻 Solutions:
+  - [Rust](Solutions/53-Maximum_Subarray.rs)
+
+### 54. Spiral Matrix
+- 📄 [Question](Questions/54-Spiral_Matrix.md)
+- 💻 Solutions:
+  - [Rust](Solutions/54-Spiral_Matrix.rs)
+
+### 55. Jump Game
+- 📄 [Question](Questions/55-Jump_Game.md)
+- 💻 Solutions:
+  - [Rust](Solutions/55-Jump_Game.rs)
+
+### 56. Merge Intervals
+- 📄 [Question](Questions/56-Merge_Intervals.md)
+- 💻 Solutions:
+  - [Rust](Solutions/56-Merge_Intervals.rs)
+
+### 57. Insert Interval
+- 📄 [Question](Questions/57-Insert_Interval.md)
+- 💻 Solutions:
+  - [Rust](Solutions/57-Insert_Interval.rs)
+
+### 58. Length of Last Word
+- 📄 [Question](Questions/58-Length_of_Last_Word.md)
+- 💻 Solutions:
+  - [Rust](Solutions/58-Length_of_Last_Word.rs)
 
 ### 104. Maximum Depth of Binary Tree
 - 📄 [Question](Questions/104-Maximum_Depth_of_Binary_Tree.md)
