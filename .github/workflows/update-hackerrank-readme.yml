@@ -41,7 +41,7 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ github.token }}
           branch: bot/update-hackerrank-readme
           delete-branch: true
           title: "Auto-update HackerRank README"
@@ -55,7 +55,7 @@ jobs:
       - name: Auto-merge PR
         if: steps.diff.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           gh pr merge ${{ steps.cpr.outputs.pull-request-number }} \
             --admin \
