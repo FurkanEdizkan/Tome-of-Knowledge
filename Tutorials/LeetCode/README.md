@@ -298,6 +298,11 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Rust](Solutions/59-Spiral_Matrix_II.rs)
 
+### 60. Permutation Sequence
+- 📄 [Question](Questions/60-Permutation_Sequence.md)
+- 💻 Solutions:
+  - [Rust](Solutions/60-Permutation_Sequence.rs)
+
 ### 104. Maximum Depth of Binary Tree
 - 📄 [Question](Questions/104-Maximum_Depth_of_Binary_Tree.md)
 - 💻 Solutions:
