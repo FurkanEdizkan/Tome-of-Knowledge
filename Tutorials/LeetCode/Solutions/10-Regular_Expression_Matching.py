@@ -1,4 +1,3 @@
-
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         memo = {}
@@ -26,25 +25,4 @@ class Solution:
             return result
         
         return dp(0, 0)
-
-def main():
-    sol = Solution()
-    tests = [
-        ("aa", "a", False),
-        ("aa", "a*", True),
-        ("ab", ".*", True),
-        ("mississippi", "mis*is*p*.", False),
-        ("a", "a", True),
-        ("", "", True),
-        ("a", ".*", True),
-        ("ab", ".*c", False),
-    ]
-    
-    for s, p, expected in tests:
-        result = sol.isMatch(s, p)
-        status = "✓" if result == expected else "✗"
-        print(f"{status} isMatch(\"{s}\", \"{p}\") = {result} (expected {expected})")
-
-
-if __name__ == "__main__":
-    main()
+        

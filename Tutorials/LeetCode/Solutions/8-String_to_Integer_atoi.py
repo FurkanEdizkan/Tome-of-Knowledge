@@ -30,26 +30,3 @@ class Solution:
             return INT_MIN
         
         return result
-
-
-def main():
-    sol = Solution()
-    tests = [
-        ("42", 42),
-        (" -042", -42),
-        ("1337c0d3", 1337),
-        ("0-1", 0),
-        ("words and 987", 0),
-        ("", 0),
-        ("+1", 1),
-        ("  +0 123", 0),
-    ]
-    
-    for s, expected in tests:
-        result = sol.myAtoi(s)
-        status = "✓" if result == expected else "✗"
-        print(f"{status} myAtoi(\"{s}\") = {result} (expected {expected})")
-
-
-if __name__ == "__main__":
-    main()

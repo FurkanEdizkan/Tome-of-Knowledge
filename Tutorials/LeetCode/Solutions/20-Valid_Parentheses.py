@@ -16,24 +16,3 @@ class Solution:
             else:
                 stack.append(char)
         return len(stack) == 0
-    
-# Test cases
-if __name__ == "__main__":
-    solution = Solution()
-    
-    test_cases = [
-        ("()", True),
-        ("()[]{}", True),
-        ("(]", False),
-        ("([])", True),
-        ("([)]", False),
-        ("", True),
-        ("{[]}", True),
-        ("([{}])", True),
-        ("([)]", False),
-    ]
-    
-    for s, expected in test_cases:
-        result = solution.isValid(s)
-        status = "✓" if result == expected else "✗"
-        print(f"{status} isValid('{s}') = {result} (expected {expected})")

@@ -12,10 +12,3 @@ class Solution:
                 else:
                     max_len = max(max_len, i - stack[-1])
         return max_len
-
-# Test cases
-if __name__ == "__main__":
-    sol = Solution()
-    print("Test 1: (() ->", sol.longestValidParentheses("(()"))  # 2
-    print("Test 2: )()()) ->", sol.longestValidParentheses(")()())"))  # 4
-    print("Test 3: '' ->", sol.longestValidParentheses(""))  # 0
