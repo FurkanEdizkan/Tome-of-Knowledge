@@ -1,7 +1,3 @@
-package main
-
-import "fmt"
-
 func waysToSplit(nums []int) int {
 	const mod = 1_000_000_007
 	n := len(nums)
@@ -58,20 +54,4 @@ func waysToSplit(nums []int) int {
 	}
 
 	return ans
-}
-
-func main() {
-	tests := []struct {
-		nums []int
-		want int
-	}{
-		{nums: []int{1, 1, 1}, want: 1},
-		{nums: []int{1, 2, 2, 2, 5, 0}, want: 3},
-		{nums: []int{3, 2, 1}, want: 0},
-	}
-
-	for _, tc := range tests {
-		got := waysToSplit(append([]int(nil), tc.nums...))
-		fmt.Printf("waysToSplit(%v) = %d (want %d)\n", tc.nums, got, tc.want)
-	}
 }

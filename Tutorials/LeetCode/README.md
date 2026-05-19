@@ -38,24 +38,27 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/7-Reverse_Integer.go)
 
-### 8. String to Integer (atoi)
-- 📄 [Question](Questions/8-String_to_Integer_(atoi).md)
+### 8. String to Integer atoi
+- 📄 [Question](Questions/8-String_to_Integer_atoi.md)
 - 💻 Solutions:
   - [Python](Solutions/8-String_to_Integer_atoi.py)
 
-### 9. Palandrome Number
-- 📄 [Question](Questions/9-Palandrome_Number.md)
+### 9. Palindrome Number
+- 📄 [Question](Questions/9-Palindrome_Number.md)
 - 💻 Solutions:
   - [Go](Solutions/9-Palandrome_Number.go)
+  - [Go](Solutions/9-Palindrome_Number.go)
 
 ### 10. Regular Expression Matching
 - 📄 [Question](Questions/10-Regular_Expression_Matching.md)
 - 💻 Solutions:
+  - [Java](Solutions/10-Regular_Expression_Matching.java)
   - [Python](Solutions/10-Regular_Expression_Matching.py)
 
 ### 11. Container with Most Water
 - 📄 [Question](Questions/11-Container_with_Most_Water.md)
 - 💻 Solutions:
+  - [Python](Solutions/11-Container_With_Most_Water.py)
   - [Python](Solutions/11-Container_with_Most_Water.py)
 
 ### 12. Integer to Roman
@@ -63,10 +66,11 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [TypeScript](Solutions/12-Integer_to_Roman.ts)
 
-### 13. Roman To Integer
-- 📄 [Question](Questions/13-Roman_To_Integer.md)
+### 13. Roman to Integer
+- 📄 [Question](Questions/13-Roman_to_Integer.md)
 - 💻 Solutions:
   - [Rust](Solutions/13-Roman_To_Integer.rs)
+  - [Rust](Solutions/13-Roman_to_Integer.rs)
 
 ### 14. Longest Common Prefix
 - 📄 [Question](Questions/14-Longest_Common_Prefix.md)
@@ -83,6 +87,11 @@ There are multiple solutions for each question, these are my own solutions for t
 - 📄 [Question](Questions/16-3Sum_Closest.md)
 - 💻 Solutions:
   - [TypeScript](Solutions/16-3Sum_Closest.ts)
+
+### 17. Letter Combinations of a Phone Number
+- 📄 [Question](Questions/17-Letter_Combinations_of_a_Phone_Number.md)
+- 💻 Solutions:
+  - [Python](Solutions/17-Letter_Combinations_of_a_Phone_Number.py)
 
 ### 18. 4Sum
 - 📄 [Question](Questions/18-4Sum.md)
@@ -125,6 +134,7 @@ There are multiple solutions for each question, these are my own solutions for t
 - 📄 [Question](Questions/25-Reverse_Nodes_in_k-Group.md)
 - 💻 Solutions:
   - [Python](Solutions/25-Reverse_Nodes_in_k-Group.py)
+  - [Python](Solutions/25-Reverse_Nodes_in_k_Group.py)
 
 ### 26. Remove Duplicates from Sorted Array
 - 📄 [Question](Questions/26-Remove_Duplicates_from_Sorted_Array.md)
@@ -252,16 +262,19 @@ There are multiple solutions for each question, these are my own solutions for t
 - 📄 [Question](Questions/50-Pow(x, n).md)
 - 💻 Solutions:
   - [Rust](Solutions/50-Pow(x, n).rs)
+  - [Rust](Solutions/50-Pow_x_n.rs)
 
-### 51. NQueens
-- 📄 [Question](Questions/51-NQueens.md)
+### 51. N Queens
+- 📄 [Question](Questions/51-N_Queens.md)
 - 💻 Solutions:
   - [Rust](Solutions/51-NQueens.rs)
+  - [Rust](Solutions/51-N_Queens.rs)
 
 ### 52. NQueens II
 - 📄 [Question](Questions/52-NQueens_II.md)
 - 💻 Solutions:
   - [Rust](Solutions/52-NQueens_II.rs)
+  - [Rust](Solutions/52-N_Queens_II.rs)
 
 ### 53. Maximum Subarray
 - 📄 [Question](Questions/53-Maximum_Subarray.md)
@@ -303,6 +316,16 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Rust](Solutions/60-Permutation_Sequence.rs)
 
+### 61. Rotate List
+- 📄 [Question](Questions/61-Rotate_List.md)
+- 💻 Solutions:
+  - [Rust](Solutions/61-Rotate_List.rs)
+
+### 62. Unique Paths
+- 📄 [Question](Questions/62-Unique_Paths.md)
+- 💻 Solutions:
+  - [Rust](Solutions/62-Unique_Paths.rs)
+
 ### 104. Maximum Depth of Binary Tree
 - 📄 [Question](Questions/104-Maximum_Depth_of_Binary_Tree.md)
 - 💻 Solutions:
@@ -338,10 +361,11 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/391-Perfect_Rectangle.go)
 
-### 559. Maximum Depth of N-ary Tree
-- 📄 [Question](Questions/559-Maximum_Depth_of_N-ary_Tree.md)
+### 559. Maximum Depth of N ary Tree
+- 📄 [Question](Questions/559-Maximum_Depth_of_N_ary_Tree.md)
 - 💻 Solutions:
   - [Go](Solutions/559-Maximum_Depth_of_N-ary_Tree.go)
+  - [Go](Solutions/559-Maximum_Depth_of_N_ary_Tree.go)
 
 ### 624. Maximum Distance in Arrays
 - 📄 [Question](Questions/624-Maximum_Distance_in_Arrays.md)
@@ -377,6 +401,7 @@ There are multiple solutions for each question, these are my own solutions for t
 - 📄 [Question](Questions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.md)
 - 💻 Solutions:
   - [Rust](Solutions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.rs)
+  - [Rust](Solutions/1457-Pseudo_Palindromic_Paths_in_a_Binary_Tree.rs)
 
 ### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 - 📄 [Question](Questions/1498-Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.md)
@@ -487,11 +512,13 @@ There are multiple solutions for each question, these are my own solutions for t
 - 📄 [Question](Questions/3543-Maximum_Weighted_K-Edge_Path.md)
 - 💻 Solutions:
   - [Python](Solutions/3543-Maximum_Weighted_K-Edge_Path.py)
+  - [Python](Solutions/3543-Maximum_Weighted_K_Edge_Path.py)
 
-### 3754. Concatenate Non-Zero Digits and Multiply by Sum I
-- 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
+### 3754. Concatenate Non Zero Digits and Multiply by Sum I
+- 📄 [Question](Questions/3754-Concatenate_Non_Zero_Digits_and_Multiply_by_Sum_I.md)
 - 💻 Solutions:
   - [Go](Solutions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.go)
+  - [Go](Solutions/3754-Concatenate_Non_Zero_Digits_and_Multiply_by_Sum_I.go)
 
 ### 3755. Find Maximum Balanced XOR Subarray Length
 - 📄 [Question](Questions/3755-Find_Maximum_Balanced_XOR_Subarray_Length.md)

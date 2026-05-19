@@ -1,12 +1,10 @@
-package main
-
 type State struct {
 	xor  int
 	diff int
 }
 
 func maxBalancedSubarray(nums []int) int {
-	m := make(map[State]int)
+    m := make(map[State]int)
 
 	// Initial state before array starts
 	m[State{0, 0}] = -1

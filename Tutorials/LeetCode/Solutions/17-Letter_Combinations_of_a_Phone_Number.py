@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         if not digits: return []
@@ -29,18 +27,4 @@ class Solution:
         backtrack(0, "")
         
         return result
-    
-if __name__ == '__main__':
-    tests = [
-        ("23", ["ad","ae","af","bd","be","bf","cd","ce","cf"]),
-        ("2", ["a","b","c"]),
-        ("234", ["adg","adh","adi","aeg","aeh","aei","afg","afh","afi","bdg","bdh","bdi","beg","beh","bei","bfg","bfh","bfi","cdg","cdh","cdi","ceg","ceh","cei","cfg","cfh","cfi"]),
-        ("", []),
-    ]
-    
-    for digits, expected in tests:
-        result = Solution().letterCombinations(digits=digits)
-        status = "✓" if result == expected else "✗"
-        print(f"{status} letterCombinations(\"{digits}\") = {result}")
-        if result != expected:
-            print(f"   Expected: {expected}")
+        

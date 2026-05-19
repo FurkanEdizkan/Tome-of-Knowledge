@@ -1,6 +1,3 @@
-from typing import List
-import numpy as np
-
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         A, B = nums1, nums2
@@ -31,10 +28,4 @@ class Solution:
                 r = i - 1
             else:
                 l = i + 1
-
-nums1 = [1,3]
-nums2 = [2]
-
-output = Solution().findMedianSortedArrays(nums1, nums2)
-
-print(output)
+        

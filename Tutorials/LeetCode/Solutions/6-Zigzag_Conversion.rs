@@ -1,5 +1,3 @@
-struct Solution;
-
 impl Solution {
     pub fn convert(s: String, num_rows: i32) -> String {
         if num_rows == 1 {
@@ -25,23 +23,5 @@ impl Solution {
         }
 
         rows.join("")
-    }
-}
-
-fn main() {
-    let tests = vec![
-        ("PAYPALISHIRING", 3, "PAHNAPLSIIGYIR"),
-        ("PAYPALISHIRING", 4, "PINALSIGYAHRPI"),
-        ("A", 1, "A"),
-        ("AB", 1, "AB"),
-    ];
-
-    for (s, num_rows, expected) in tests {
-        let result = Solution::convert(s.to_string(), num_rows);
-        let status = if result == expected { "✓" } else { "✗" };
-        println!(
-            "{} convert(\"{}\", {}) = \"{}\" (expected \"{}\")",
-            status, s, num_rows, result, expected
-        );
     }
 }

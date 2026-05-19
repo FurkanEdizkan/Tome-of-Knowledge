@@ -1,5 +1,4 @@
 // The solution for this question is from @https://www.youtube.com/watch?v=nprY99DFLfA&list=WL&index=1
-// Sometimes for some of these LeetCode problems, it is better to learn from answers
 
 class Solution {    
 public:

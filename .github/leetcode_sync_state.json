@@ -1,0 +1,551 @@
+{
+  "last_full_backfill": "2026-05-19T12:53:16Z",
+  "submissions": {
+    "3sum-closest::typescript": {
+      "question_id": "16",
+      "submission_id": 1846596056,
+      "timestamp": 1764835498
+    },
+    "3sum::golang": {
+      "question_id": "15",
+      "submission_id": 1846587622,
+      "timestamp": 1764834725
+    },
+    "3sum::python3": {
+      "question_id": "15",
+      "submission_id": 1846586846,
+      "timestamp": 1764834653
+    },
+    "4sum::python3": {
+      "question_id": "18",
+      "submission_id": 1850099717,
+      "timestamp": 1765194260
+    },
+    "add-two-numbers::java": {
+      "question_id": "2",
+      "submission_id": 1839376593,
+      "timestamp": 1764073290
+    },
+    "apply-operations-to-an-array::golang": {
+      "question_id": "2460",
+      "submission_id": 1876095320,
+      "timestamp": 1767680134
+    },
+    "combination-sum-ii::rust": {
+      "question_id": "40",
+      "submission_id": 1953382982,
+      "timestamp": 1773948968
+    },
+    "combination-sum::rust": {
+      "question_id": "39",
+      "submission_id": 1952019695,
+      "timestamp": 1773831024
+    },
+    "concatenate-non-zero-digits-and-multiply-by-sum-i::golang": {
+      "question_id": "3754",
+      "submission_id": 1866641528,
+      "timestamp": 1766839864
+    },
+    "container-with-most-water::python3": {
+      "question_id": "11",
+      "submission_id": 1844180663,
+      "timestamp": 1764597588
+    },
+    "count-pairs-of-similar-strings::golang": {
+      "question_id": "2506",
+      "submission_id": 1913078765,
+      "timestamp": 1770613225
+    },
+    "count-sub-islands::rust": {
+      "question_id": "1905",
+      "submission_id": 1943578671,
+      "timestamp": 1773121171
+    },
+    "design-bitset::golang": {
+      "question_id": "2166",
+      "submission_id": 1885612807,
+      "timestamp": 1768465732
+    },
+    "design-ride-sharing-system::cpp": {
+      "question_id": "3829",
+      "submission_id": 1910246772,
+      "timestamp": 1770382206
+    },
+    "distinct-subsequences::golang": {
+      "question_id": "115",
+      "submission_id": 1924002340,
+      "timestamp": 1771479762
+    },
+    "divide-two-integers::python3": {
+      "question_id": "29",
+      "submission_id": 1859506951,
+      "timestamp": 1766124108
+    },
+    "divide-two-integers::rust": {
+      "question_id": "29",
+      "submission_id": 1859479935,
+      "timestamp": 1766121945
+    },
+    "double-a-number-represented-as-a-linked-list::golang": {
+      "question_id": "2816",
+      "submission_id": 1869267311,
+      "timestamp": 1767089311
+    },
+    "double-modular-exponentiation::cpp": {
+      "question_id": "2961",
+      "submission_id": 1909131533,
+      "timestamp": 1770297886
+    },
+    "duplicate-emails::postgresql": {
+      "question_id": "182",
+      "submission_id": 1890734797,
+      "timestamp": 1768893083
+    },
+    "evaluate-the-bracket-pairs-of-a-string::golang": {
+      "question_id": "1807",
+      "submission_id": 1916544840,
+      "timestamp": 1770872707
+    },
+    "find-first-and-last-position-of-element-in-sorted-array::golang": {
+      "question_id": "34",
+      "submission_id": 1899691162,
+      "timestamp": 1769598889
+    },
+    "find-maximum-balanced-xor-subarray-length::golang": {
+      "question_id": "3755",
+      "submission_id": 1867556665,
+      "timestamp": 1766925620
+    },
+    "find-occurrences-of-an-element-in-an-array::rust": {
+      "question_id": "3159",
+      "submission_id": 1865539125,
+      "timestamp": 1766729199
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string::python3": {
+      "question_id": "28",
+      "submission_id": 1858867136,
+      "timestamp": 1766057303
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string::rust": {
+      "question_id": "28",
+      "submission_id": 1858860852,
+      "timestamp": 1766056707
+    },
+    "find-the-maximum-number-of-elements-in-subset::rust": {
+      "question_id": "3020",
+      "submission_id": 1930518828,
+      "timestamp": 1772004864
+    },
+    "first-letter-capitalization-ii::postgresql": {
+      "question_id": "3374",
+      "submission_id": 1917679027,
+      "timestamp": 1770962448
+    },
+    "first-missing-positive::rust": {
+      "question_id": "41",
+      "submission_id": 1953889845,
+      "timestamp": 1774007998
+    },
+    "generate-parentheses::rust": {
+      "question_id": "22",
+      "submission_id": 1853556264,
+      "timestamp": 1765526015
+    },
+    "group-anagrams::golang": {
+      "question_id": "49",
+      "submission_id": 1879539137,
+      "timestamp": 1767945005
+    },
+    "image-overlap::golang": {
+      "question_id": "835",
+      "submission_id": 1878402932,
+      "timestamp": 1767853803
+    },
+    "insert-interval::rust": {
+      "question_id": "57",
+      "submission_id": 1984242864,
+      "timestamp": 1776755457
+    },
+    "integer-to-roman::typescript": {
+      "question_id": "12",
+      "submission_id": 1844755428,
+      "timestamp": 1764656106
+    },
+    "jump-game-ii::rust": {
+      "question_id": "45",
+      "submission_id": 1964581427,
+      "timestamp": 1774940328
+    },
+    "jump-game::rust": {
+      "question_id": "55",
+      "submission_id": 1979850017,
+      "timestamp": 1776324238
+    },
+    "length-of-last-word::rust": {
+      "question_id": "58",
+      "submission_id": 1985158675,
+      "timestamp": 1776846604
+    },
+    "letter-combinations-of-a-phone-number::python3": {
+      "question_id": "17",
+      "submission_id": 1852673737,
+      "timestamp": 1765436920
+    },
+    "longest-alternating-subarray-after-removing-at-most-one-element::cpp": {
+      "question_id": "3830",
+      "submission_id": 1911612598,
+      "timestamp": 1770490227
+    },
+    "longest-common-prefix::cpp": {
+      "question_id": "14",
+      "submission_id": 1839336308,
+      "timestamp": 1764069092
+    },
+    "longest-palindromic-substring::python3": {
+      "question_id": "5",
+      "submission_id": 1840210454,
+      "timestamp": 1764158680
+    },
+    "longest-substring-without-repeating-characters::python3": {
+      "question_id": "3",
+      "submission_id": 1839441712,
+      "timestamp": 1764079078
+    },
+    "longest-valid-parentheses::python3": {
+      "question_id": "32",
+      "submission_id": 1864751431,
+      "timestamp": 1766645864
+    },
+    "max-chunks-to-make-sorted-ii::rust": {
+      "question_id": "768",
+      "submission_id": 1946873212,
+      "timestamp": 1773394251
+    },
+    "maximum-depth-of-binary-tree::rust": {
+      "question_id": "104",
+      "submission_id": 1948992594,
+      "timestamp": 1773571412
+    },
+    "maximum-depth-of-n-ary-tree::golang": {
+      "question_id": "559",
+      "submission_id": 1905058967,
+      "timestamp": 1770009394
+    },
+    "maximum-distance-in-arrays::golang": {
+      "question_id": "624",
+      "submission_id": 1868273885,
+      "timestamp": 1767000068
+    },
+    "maximum-prime-difference::rust": {
+      "question_id": "3115",
+      "submission_id": 1945746062,
+      "timestamp": 1773297520
+    },
+    "maximum-score-after-splitting-a-string::rust": {
+      "question_id": "1422",
+      "submission_id": 1877500604,
+      "timestamp": 1767783889
+    },
+    "maximum-subarray::rust": {
+      "question_id": "53",
+      "submission_id": 1978013312,
+      "timestamp": 1776149550
+    },
+    "maximum-subsequence-score::golang": {
+      "question_id": "2542",
+      "submission_id": 1882652875,
+      "timestamp": 1768212547
+    },
+    "maximum-weighted-k-edge-path::python3": {
+      "question_id": "3543",
+      "submission_id": 1929335491,
+      "timestamp": 1771914301
+    },
+    "median-of-two-sorted-arrays::python3": {
+      "question_id": "4",
+      "submission_id": 1840195987,
+      "timestamp": 1764157018
+    },
+    "merge-intervals::rust": {
+      "question_id": "56",
+      "submission_id": 1983277699,
+      "timestamp": 1776665325
+    },
+    "merge-k-sorted-lists::golang": {
+      "question_id": "23",
+      "submission_id": 1854467613,
+      "timestamp": 1765626782
+    },
+    "merge-k-sorted-lists::python3": {
+      "question_id": "23",
+      "submission_id": 1854491918,
+      "timestamp": 1765629288
+    },
+    "merge-two-sorted-lists::cpp": {
+      "question_id": "21",
+      "submission_id": 1852637565,
+      "timestamp": 1765434290
+    },
+    "minimum-cost-for-tickets::golang": {
+      "question_id": "983",
+      "submission_id": 1915098197,
+      "timestamp": 1770752654
+    },
+    "minimum-edge-toggles-on-a-tree::golang": {
+      "question_id": "3812",
+      "submission_id": 1928426606,
+      "timestamp": 1771845370
+    },
+    "minimum-number-of-swaps-to-make-the-binary-string-alternating::rust": {
+      "question_id": "1864",
+      "submission_id": 1875173010,
+      "timestamp": 1767609197
+    },
+    "minimum-operations-to-make-array-values-equal-to-k::python3": {
+      "question_id": "3375",
+      "submission_id": 1921801093,
+      "timestamp": 1771308175
+    },
+    "multiply-strings::rust": {
+      "question_id": "43",
+      "submission_id": 1962784582,
+      "timestamp": 1774783161
+    },
+    "n-queens-ii::rust": {
+      "question_id": "52",
+      "submission_id": 1972216569,
+      "timestamp": 1775624256
+    },
+    "n-queens::rust": {
+      "question_id": "51",
+      "submission_id": 1971336703,
+      "timestamp": 1775547923
+    },
+    "next-permutation::rust": {
+      "question_id": "31",
+      "submission_id": 1863916056,
+      "timestamp": 1766557092
+    },
+    "number-of-digit-one::rust": {
+      "question_id": "233",
+      "submission_id": 1942597969,
+      "timestamp": 1773040157
+    },
+    "number-of-subsequences-that-satisfy-the-given-sum-condition::golang": {
+      "question_id": "1498",
+      "submission_id": 1925389361,
+      "timestamp": 1771593700
+    },
+    "palindrome-number::golang": {
+      "question_id": "9",
+      "submission_id": 1838316054,
+      "timestamp": 1763970321
+    },
+    "perfect-rectangle::golang": {
+      "question_id": "391",
+      "submission_id": 1868176529,
+      "timestamp": 1766991790
+    },
+    "permutation-sequence::rust": {
+      "question_id": "60",
+      "submission_id": 1990173662,
+      "timestamp": 1777376368
+    },
+    "permutations-ii::rust": {
+      "question_id": "47",
+      "submission_id": 1966734224,
+      "timestamp": 1775128315
+    },
+    "permutations::rust": {
+      "question_id": "46",
+      "submission_id": 1965594408,
+      "timestamp": 1775026725
+    },
+    "powx-n::rust": {
+      "question_id": "50",
+      "submission_id": 1969481670,
+      "timestamp": 1775381286
+    },
+    "prime-in-diagonal::rust": {
+      "question_id": "2614",
+      "submission_id": 1938386192,
+      "timestamp": 1772689007
+    },
+    "pseudo-palindromic-paths-in-a-binary-tree::rust": {
+      "question_id": "1457",
+      "submission_id": 1939872692,
+      "timestamp": 1772805054
+    },
+    "rearrange-k-substrings-to-form-target-string::golang": {
+      "question_id": "3365",
+      "submission_id": 1927426129,
+      "timestamp": 1771764248
+    },
+    "regular-expression-matching::java": {
+      "question_id": "10",
+      "submission_id": 1841576633,
+      "timestamp": 1764313397
+    },
+    "regular-expression-matching::python3": {
+      "question_id": "10",
+      "submission_id": 1841576811,
+      "timestamp": 1764313413
+    },
+    "remove-duplicates-from-sorted-array::python3": {
+      "question_id": "26",
+      "submission_id": 1857039843,
+      "timestamp": 1765880415
+    },
+    "remove-element::rust": {
+      "question_id": "27",
+      "submission_id": 1950854837,
+      "timestamp": 1773732164
+    },
+    "remove-nth-node-from-end-of-list::golang": {
+      "question_id": "19",
+      "submission_id": 1851050374,
+      "timestamp": 1765281599
+    },
+    "restore-the-array::rust": {
+      "question_id": "1416",
+      "submission_id": 1883515229,
+      "timestamp": 1768285179
+    },
+    "reverse-integer::golang": {
+      "question_id": "7",
+      "submission_id": 1840928467,
+      "timestamp": 1764238411
+    },
+    "reverse-nodes-in-k-group::python3": {
+      "question_id": "25",
+      "submission_id": 1863221253,
+      "timestamp": 1766486477
+    },
+    "richest-customer-wealth::golang": {
+      "question_id": "1672",
+      "submission_id": 1935407032,
+      "timestamp": 1772435473
+    },
+    "roman-to-integer::rust": {
+      "question_id": "13",
+      "submission_id": 1838444184,
+      "timestamp": 1763982286
+    },
+    "rotate-image::rust": {
+      "question_id": "48",
+      "submission_id": 1967411264,
+      "timestamp": 1775195387
+    },
+    "rotate-list::rust": {
+      "question_id": "61",
+      "submission_id": 1991789300,
+      "timestamp": 1777550247
+    },
+    "search-in-rotated-sorted-array::golang": {
+      "question_id": "33",
+      "submission_id": 1898324268,
+      "timestamp": 1769500151
+    },
+    "search-insert-position::golang": {
+      "question_id": "35",
+      "submission_id": 1900892134,
+      "timestamp": 1769689754
+    },
+    "separate-squares-ii::golang": {
+      "question_id": "3454",
+      "submission_id": 1890027983,
+      "timestamp": 1768837685
+    },
+    "shortest-matching-substring::cpp": {
+      "question_id": "3455",
+      "submission_id": 1893288159,
+      "timestamp": 1769088698
+    },
+    "single-number-iii::golang": {
+      "question_id": "260",
+      "submission_id": 1894741955,
+      "timestamp": 1769201026
+    },
+    "spiral-matrix-ii::rust": {
+      "question_id": "59",
+      "submission_id": 1986725866,
+      "timestamp": 1777009347
+    },
+    "spiral-matrix::rust": {
+      "question_id": "54",
+      "submission_id": 1979727480,
+      "timestamp": 1776313832
+    },
+    "string-to-integer-atoi::python3": {
+      "question_id": "8",
+      "submission_id": 1852674427,
+      "timestamp": 1765436973
+    },
+    "substring-with-concatenation-of-all-words::python3": {
+      "question_id": "30",
+      "submission_id": 1862303722,
+      "timestamp": 1766399081
+    },
+    "sudoku-solver::rust": {
+      "question_id": "37",
+      "submission_id": 1944886453,
+      "timestamp": 1773224571
+    },
+    "swap-nodes-in-pairs::python3": {
+      "question_id": "24",
+      "submission_id": 1856197042,
+      "timestamp": 1765800396
+    },
+    "swap-nodes-in-pairs::rust": {
+      "question_id": "24",
+      "submission_id": 1856186625,
+      "timestamp": 1765799452
+    },
+    "trapping-rain-water::rust": {
+      "question_id": "42",
+      "submission_id": 1957629265,
+      "timestamp": 1774346045
+    },
+    "trips-and-users::postgresql": {
+      "question_id": "262",
+      "submission_id": 1895527379,
+      "timestamp": 1769272576
+    },
+    "two-sum::python3": {
+      "question_id": "1",
+      "submission_id": 1838302592,
+      "timestamp": 1763969048
+    },
+    "unique-paths::rust": {
+      "question_id": "62",
+      "submission_id": 1994961148,
+      "timestamp": 1777899685
+    },
+    "valid-parentheses::python3": {
+      "question_id": "20",
+      "submission_id": 1851838617,
+      "timestamp": 1765355837
+    },
+    "valid-sudoku::golang": {
+      "question_id": "36",
+      "submission_id": 1902396081,
+      "timestamp": 1769805344
+    },
+    "ways-to-split-array-into-three-subarrays::golang": {
+      "question_id": "1712",
+      "submission_id": 1906348358,
+      "timestamp": 1770100251
+    },
+    "wildcard-matching::rust": {
+      "question_id": "44",
+      "submission_id": 1963521948,
+      "timestamp": 1774851126
+    },
+    "zigzag-conversion::rust": {
+      "question_id": "6",
+      "submission_id": 1840788042,
+      "timestamp": 1764223759
+    }
+  },
+  "username": "furkandedizkan"
+}
