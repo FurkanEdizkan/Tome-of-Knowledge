@@ -1,0 +1,29 @@
+name: Enforce PR source branch
+
+# GitHub branch protection cannot restrict which branch a PR comes from,
+# so we enforce it here: PRs targeting `main` must originate from `dev` or
+# any `bot/*` branch (the latter so sync-leetcode and similar bots keep working).
+
+on:
+  pull_request:
+    types: [opened, reopened, edited, synchronize]
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  check-source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify PR source branch
+        run: |
+          src="${{ github.head_ref }}"
+          echo "PR source: $src"
+          if [ "$src" = "dev" ] || [[ "$src" == bot/* ]]; then
+            echo "Source branch allowed."
+            exit 0
+          fi
+          echo "::error::PRs to main must come from 'dev' or a 'bot/*' branch (got '$src')."
+          exit 1
