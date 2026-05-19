@@ -22,8 +22,5 @@ class Solution:
                 r += 1
         
         return res
-
-
-s = "cbbd"
-output = Solution().longestPalindrome(s=s)
-print(output)
+        
+        return res

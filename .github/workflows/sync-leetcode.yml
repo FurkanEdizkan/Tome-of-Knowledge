@@ -1,0 +1,88 @@
+name: Sync LeetCode submissions (daily)
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Force full history backfill (ignore existing state file)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Sync LeetCode submissions
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF: ${{ secrets.LEETCODE_CSRF }}
+          LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
+        run: |
+          python .github/scripts/sync_leetcode.py \
+            ${{ inputs.backfill && '--backfill' || '' }}
+
+      - name: Regenerate LeetCode README
+        run: python .github/scripts/generate_leetcode_readme.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request
+        if: steps.diff.outputs.changed == 'true'
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          branch: bot/sync-leetcode
+          delete-branch: true
+          title: "Sync LeetCode submissions"
+          commit-message: "Sync LeetCode submissions"
+          body: |
+            Daily sync of accepted LeetCode submissions.
+
+            - New / updated solutions pulled from LeetCode.
+            - Question descriptions added for any newly-seen problems.
+            - `Tutorials/LeetCode/README.md` and `.github/leetcode_sync_state.json` updated.
+
+            Auto-merging...
+          base: main
+
+      - name: Auto-merge PR
+        if: steps.diff.outputs.changed == 'true' && steps.cpr.outputs.pull-request-number
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} \
+            --admin \
+            --squash \
+            --delete-branch

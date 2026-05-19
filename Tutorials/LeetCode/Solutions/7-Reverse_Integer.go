@@ -1,12 +1,5 @@
-package main
-
-import (
-	"fmt"
-	"math"
-)
-
 func reverse(x int) int {
-	const INT32_MAX = math.MaxInt32
+    const INT32_MAX = math.MaxInt32
 	const INT32_MIN = math.MinInt32
 
 	result := 0
@@ -27,13 +20,4 @@ func reverse(x int) int {
 	}
 
 	return result
-}
-
-func main() {
-	tests := []int{123, -123, 120, 0, 1534236469}
-
-	for _, x := range tests {
-		fmt.Printf("reverse(%d) = %d\n", x, reverse(x))
-	}
-
 }

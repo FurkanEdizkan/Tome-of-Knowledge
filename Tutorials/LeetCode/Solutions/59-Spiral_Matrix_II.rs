@@ -7,6 +7,11 @@ impl Solution {
         let (mut left, mut right) = (0, n as i32 - 1);
 
         let mut num = 1;
+        
+        // Left → Right
+        // Top → Bottom
+        // Right → Left
+        // Bottom → Top
 
         while top <= bottom && left <= right {
 

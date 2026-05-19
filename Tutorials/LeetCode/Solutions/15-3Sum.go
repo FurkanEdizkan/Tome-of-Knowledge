@@ -1,13 +1,5 @@
-package main
-
-import (
-	"fmt"
-	"sort"
-)
-
 func threeSum(nums []int) [][]int {
-
-	n := len(nums)
+    n := len(nums)
 	res := [][]int{}
 
 	if n < 3 {
@@ -50,18 +42,4 @@ func threeSum(nums []int) [][]int {
 		}
 	}
 	return res
-}
-
-func main() {
-	tests := [][]int{
-		{-1, 0, 1, 2, -1, -4},
-		{0, 0, 1},
-		{0, 0, 0},
-		{-2, 0, 1, 1, 2},
-	}
-
-	for _, t := range tests {
-		out := threeSum(append([]int(nil), t...))
-		fmt.Printf("threeSum(%#v) = %#v\n", t, out)
-	}
 }

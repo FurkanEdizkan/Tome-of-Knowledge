@@ -25,5 +25,6 @@ impl Solution {
         nums.swap(i as usize, j);
         
         nums[(i as usize + 1)..].reverse();
+    
     }
 }

@@ -1,5 +1,3 @@
-
-
 function threeSumClosest(nums: number[], target: number): number {
     nums.sort((a, b) => a - b);
     let n = nums.length;
@@ -28,19 +26,3 @@ function threeSumClosest(nums: number[], target: number): number {
 
     return closest;
 };
-
-
-// Quick tests
-const tests: [number[], number, number][] = [
-    [[-1, 2, 1, -4], 1, 2],
-    [[0, 0, 0], 1, 0],
-    [[1, 1, -1, -1, 3], 1, 1],
-];
-
-for (const [nums, target, expected] of tests) {
-    const res = threeSumClosest(nums.slice(), target);
-    const ok = res === expected ? "✓" : "✗";
-    console.log(`${ok} threeSumClosest(${JSON.stringify(nums)}, ${target}) = ${res} (expected ${expected})`);
-}
-
-export { threeSumClosest };

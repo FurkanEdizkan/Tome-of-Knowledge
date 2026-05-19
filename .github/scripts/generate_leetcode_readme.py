@@ -15,6 +15,7 @@ LANG_MAP = {
     ".go": "Go",
     ".java": "Java",
     ".ts": "TypeScript",
+    ".js": "JavaScript",
     ".sql": "SQL",
     ".psql": "PostgreSQL"
 }

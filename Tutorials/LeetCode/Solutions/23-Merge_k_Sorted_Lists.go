@@ -1,10 +1,3 @@
-package main
-
-import (
-    "container/heap"
-    "fmt"
-)
-
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -12,7 +5,6 @@ import (
  *     Next *ListNode
  * }
  */
-
 type MinHeap []*ListNode
 
 func (h MinHeap) Len() int           { return len(h) }
