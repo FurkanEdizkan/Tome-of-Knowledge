@@ -38,13 +38,13 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/7-Reverse_Integer.go)
 
-### 8. String to Integer atoi
-- 📄 [Question](Questions/8-String_to_Integer_atoi.md)
+### 8. String to Integer (atoi)
+- 📄 [Question](Questions/8-String_to_Integer_(atoi).md)
 - 💻 Solutions:
   - [Python](Solutions/8-String_to_Integer_atoi.py)
 
-### 9. Palindrome Number
-- 📄 [Question](Questions/9-Palindrome_Number.md)
+### 9. Palandrome Number
+- 📄 [Question](Questions/9-Palandrome_Number.md)
 - 💻 Solutions:
   - [Go](Solutions/9-Palandrome_Number.go)
   - [Go](Solutions/9-Palindrome_Number.go)
@@ -66,8 +66,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [TypeScript](Solutions/12-Integer_to_Roman.ts)
 
-### 13. Roman to Integer
-- 📄 [Question](Questions/13-Roman_to_Integer.md)
+### 13. Roman To Integer
+- 📄 [Question](Questions/13-Roman_To_Integer.md)
 - 💻 Solutions:
   - [Rust](Solutions/13-Roman_To_Integer.rs)
   - [Rust](Solutions/13-Roman_to_Integer.rs)
@@ -258,8 +258,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
 
-### 50. Pow(x, n)
-- 📄 [Question](Questions/50-Pow(x, n).md)
+### 50. Pow x n
+- 📄 [Question](Questions/50-Pow_x_n.md)
 - 💻 Solutions:
   - [Rust](Solutions/50-Pow(x, n).rs)
   - [Rust](Solutions/50-Pow_x_n.rs)
