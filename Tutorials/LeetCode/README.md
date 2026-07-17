@@ -43,8 +43,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Python](Solutions/8-String_to_Integer_atoi.py)
 
-### 9. Palindrome Number
-- 📄 [Question](Questions/9-Palindrome_Number.md)
+### 9. Palandrome Number
+- 📄 [Question](Questions/9-Palandrome_Number.md)
 - 💻 Solutions:
   - [Go](Solutions/9-Palandrome_Number.go)
   - [Go](Solutions/9-Palindrome_Number.go)
@@ -55,8 +55,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Java](Solutions/10-Regular_Expression_Matching.java)
   - [Python](Solutions/10-Regular_Expression_Matching.py)
 
-### 11. Container With Most Water
-- 📄 [Question](Questions/11-Container_With_Most_Water.md)
+### 11. Container with Most Water
+- 📄 [Question](Questions/11-Container_with_Most_Water.md)
 - 💻 Solutions:
   - [Python](Solutions/11-Container_With_Most_Water.py)
   - [Python](Solutions/11-Container_with_Most_Water.py)
@@ -264,14 +264,14 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Rust](Solutions/50-Pow(x, n).rs)
   - [Rust](Solutions/50-Pow_x_n.rs)
 
-### 51. NQueens
-- 📄 [Question](Questions/51-NQueens.md)
+### 51. N Queens
+- 📄 [Question](Questions/51-N_Queens.md)
 - 💻 Solutions:
   - [Rust](Solutions/51-NQueens.rs)
   - [Rust](Solutions/51-N_Queens.rs)
 
-### 52. N Queens II
-- 📄 [Question](Questions/52-N_Queens_II.md)
+### 52. NQueens II
+- 📄 [Question](Questions/52-NQueens_II.md)
 - 💻 Solutions:
   - [Rust](Solutions/52-NQueens_II.rs)
   - [Rust](Solutions/52-N_Queens_II.rs)
@@ -397,8 +397,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
 
-### 1457. Pseudo Palindromic Paths in a Binary Tree
-- 📄 [Question](Questions/1457-Pseudo_Palindromic_Paths_in_a_Binary_Tree.md)
+### 1457. PseudoPalindromic Paths in a Binary Tree
+- 📄 [Question](Questions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.md)
 - 💻 Solutions:
   - [Rust](Solutions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.rs)
   - [Rust](Solutions/1457-Pseudo_Palindromic_Paths_in_a_Binary_Tree.rs)
