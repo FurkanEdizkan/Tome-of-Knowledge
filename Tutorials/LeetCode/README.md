@@ -38,13 +38,13 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/7-Reverse_Integer.go)
 
-### 8. String to Integer atoi
-- 📄 [Question](Questions/8-String_to_Integer_atoi.md)
+### 8. String to Integer (atoi)
+- 📄 [Question](Questions/8-String_to_Integer_(atoi).md)
 - 💻 Solutions:
   - [Python](Solutions/8-String_to_Integer_atoi.py)
 
-### 9. Palandrome Number
-- 📄 [Question](Questions/9-Palandrome_Number.md)
+### 9. Palindrome Number
+- 📄 [Question](Questions/9-Palindrome_Number.md)
 - 💻 Solutions:
   - [Go](Solutions/9-Palandrome_Number.go)
   - [Go](Solutions/9-Palindrome_Number.go)
@@ -130,8 +130,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Python](Solutions/24-Swap_Nodes_in_Pairs.py)
   - [Rust](Solutions/24-Swap_Nodes_in_Pairs.rs)
 
-### 25. Reverse Nodes in k Group
-- 📄 [Question](Questions/25-Reverse_Nodes_in_k_Group.md)
+### 25. Reverse Nodes in k-Group
+- 📄 [Question](Questions/25-Reverse_Nodes_in_k-Group.md)
 - 💻 Solutions:
   - [Python](Solutions/25-Reverse_Nodes_in_k-Group.py)
   - [Python](Solutions/25-Reverse_Nodes_in_k_Group.py)
@@ -258,8 +258,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
 
-### 50. Pow(x, n)
-- 📄 [Question](Questions/50-Pow(x, n).md)
+### 50. Pow x n
+- 📄 [Question](Questions/50-Pow_x_n.md)
 - 💻 Solutions:
   - [Rust](Solutions/50-Pow(x, n).rs)
   - [Rust](Solutions/50-Pow_x_n.rs)
@@ -270,8 +270,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Rust](Solutions/51-NQueens.rs)
   - [Rust](Solutions/51-N_Queens.rs)
 
-### 52. NQueens II
-- 📄 [Question](Questions/52-NQueens_II.md)
+### 52. N Queens II
+- 📄 [Question](Questions/52-N_Queens_II.md)
 - 💻 Solutions:
   - [Rust](Solutions/52-NQueens_II.rs)
   - [Rust](Solutions/52-N_Queens_II.rs)
@@ -397,8 +397,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
 
-### 1457. PseudoPalindromic Paths in a Binary Tree
-- 📄 [Question](Questions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.md)
+### 1457. Pseudo Palindromic Paths in a Binary Tree
+- 📄 [Question](Questions/1457-Pseudo_Palindromic_Paths_in_a_Binary_Tree.md)
 - 💻 Solutions:
   - [Rust](Solutions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.rs)
   - [Rust](Solutions/1457-Pseudo_Palindromic_Paths_in_a_Binary_Tree.rs)
