@@ -43,8 +43,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Python](Solutions/8-String_to_Integer_atoi.py)
 
-### 9. Palindrome Number
-- 📄 [Question](Questions/9-Palindrome_Number.md)
+### 9. Palandrome Number
+- 📄 [Question](Questions/9-Palandrome_Number.md)
 - 💻 Solutions:
   - [Go](Solutions/9-Palandrome_Number.go)
   - [Go](Solutions/9-Palindrome_Number.go)
@@ -55,8 +55,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Java](Solutions/10-Regular_Expression_Matching.java)
   - [Python](Solutions/10-Regular_Expression_Matching.py)
 
-### 11. Container with Most Water
-- 📄 [Question](Questions/11-Container_with_Most_Water.md)
+### 11. Container With Most Water
+- 📄 [Question](Questions/11-Container_With_Most_Water.md)
 - 💻 Solutions:
   - [Python](Solutions/11-Container_With_Most_Water.py)
   - [Python](Solutions/11-Container_with_Most_Water.py)
@@ -66,8 +66,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [TypeScript](Solutions/12-Integer_to_Roman.ts)
 
-### 13. Roman to Integer
-- 📄 [Question](Questions/13-Roman_to_Integer.md)
+### 13. Roman To Integer
+- 📄 [Question](Questions/13-Roman_To_Integer.md)
 - 💻 Solutions:
   - [Rust](Solutions/13-Roman_To_Integer.rs)
   - [Rust](Solutions/13-Roman_to_Integer.rs)
@@ -258,8 +258,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
 
-### 50. Pow x n
-- 📄 [Question](Questions/50-Pow_x_n.md)
+### 50. Pow(x, n)
+- 📄 [Question](Questions/50-Pow(x, n).md)
 - 💻 Solutions:
   - [Rust](Solutions/50-Pow(x, n).rs)
   - [Rust](Solutions/50-Pow_x_n.rs)
@@ -397,8 +397,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Rust](Solutions/1422-Maximum_Score_After_Splitting_a_String.rs)
 
-### 1457. Pseudo Palindromic Paths in a Binary Tree
-- 📄 [Question](Questions/1457-Pseudo_Palindromic_Paths_in_a_Binary_Tree.md)
+### 1457. PseudoPalindromic Paths in a Binary Tree
+- 📄 [Question](Questions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.md)
 - 💻 Solutions:
   - [Rust](Solutions/1457-PseudoPalindromic_Paths_in_a_Binary_Tree.rs)
   - [Rust](Solutions/1457-Pseudo_Palindromic_Paths_in_a_Binary_Tree.rs)
@@ -508,14 +508,14 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [C++](Solutions/3455-Shortest_Matching_Substring.cpp)
 
-### 3543. Maximum Weighted K Edge Path
-- 📄 [Question](Questions/3543-Maximum_Weighted_K_Edge_Path.md)
+### 3543. Maximum Weighted K-Edge Path
+- 📄 [Question](Questions/3543-Maximum_Weighted_K-Edge_Path.md)
 - 💻 Solutions:
   - [Python](Solutions/3543-Maximum_Weighted_K-Edge_Path.py)
   - [Python](Solutions/3543-Maximum_Weighted_K_Edge_Path.py)
 
-### 3754. Concatenate Non-Zero Digits and Multiply by Sum I
-- 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
+### 3754. Concatenate Non Zero Digits and Multiply by Sum I
+- 📄 [Question](Questions/3754-Concatenate_Non_Zero_Digits_and_Multiply_by_Sum_I.md)
 - 💻 Solutions:
   - [Go](Solutions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.go)
   - [Go](Solutions/3754-Concatenate_Non_Zero_Digits_and_Multiply_by_Sum_I.go)
