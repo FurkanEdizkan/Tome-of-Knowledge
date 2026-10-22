@@ -130,8 +130,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Python](Solutions/24-Swap_Nodes_in_Pairs.py)
   - [Rust](Solutions/24-Swap_Nodes_in_Pairs.rs)
 
-### 25. Reverse Nodes in k-Group
-- 📄 [Question](Questions/25-Reverse_Nodes_in_k-Group.md)
+### 25. Reverse Nodes in k Group
+- 📄 [Question](Questions/25-Reverse_Nodes_in_k_Group.md)
 - 💻 Solutions:
   - [Python](Solutions/25-Reverse_Nodes_in_k-Group.py)
   - [Python](Solutions/25-Reverse_Nodes_in_k_Group.py)
@@ -264,8 +264,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Rust](Solutions/50-Pow(x, n).rs)
   - [Rust](Solutions/50-Pow_x_n.rs)
 
-### 51. N Queens
-- 📄 [Question](Questions/51-N_Queens.md)
+### 51. NQueens
+- 📄 [Question](Questions/51-NQueens.md)
 - 💻 Solutions:
   - [Rust](Solutions/51-NQueens.rs)
   - [Rust](Solutions/51-N_Queens.rs)
@@ -508,8 +508,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [C++](Solutions/3455-Shortest_Matching_Substring.cpp)
 
-### 3543. Maximum Weighted K Edge Path
-- 📄 [Question](Questions/3543-Maximum_Weighted_K_Edge_Path.md)
+### 3543. Maximum Weighted K-Edge Path
+- 📄 [Question](Questions/3543-Maximum_Weighted_K-Edge_Path.md)
 - 💻 Solutions:
   - [Python](Solutions/3543-Maximum_Weighted_K-Edge_Path.py)
   - [Python](Solutions/3543-Maximum_Weighted_K_Edge_Path.py)
