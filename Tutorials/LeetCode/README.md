@@ -38,8 +38,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/7-Reverse_Integer.go)
 
-### 8. String to Integer (atoi)
-- 📄 [Question](Questions/8-String_to_Integer_(atoi).md)
+### 8. String to Integer atoi
+- 📄 [Question](Questions/8-String_to_Integer_atoi.md)
 - 💻 Solutions:
   - [Python](Solutions/8-String_to_Integer_atoi.py)
 
@@ -66,8 +66,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [TypeScript](Solutions/12-Integer_to_Roman.ts)
 
-### 13. Roman to Integer
-- 📄 [Question](Questions/13-Roman_to_Integer.md)
+### 13. Roman To Integer
+- 📄 [Question](Questions/13-Roman_To_Integer.md)
 - 💻 Solutions:
   - [Rust](Solutions/13-Roman_To_Integer.rs)
   - [Rust](Solutions/13-Roman_to_Integer.rs)
@@ -130,8 +130,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Python](Solutions/24-Swap_Nodes_in_Pairs.py)
   - [Rust](Solutions/24-Swap_Nodes_in_Pairs.rs)
 
-### 25. Reverse Nodes in k Group
-- 📄 [Question](Questions/25-Reverse_Nodes_in_k_Group.md)
+### 25. Reverse Nodes in k-Group
+- 📄 [Question](Questions/25-Reverse_Nodes_in_k-Group.md)
 - 💻 Solutions:
   - [Python](Solutions/25-Reverse_Nodes_in_k-Group.py)
   - [Python](Solutions/25-Reverse_Nodes_in_k_Group.py)
@@ -264,14 +264,14 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Rust](Solutions/50-Pow(x, n).rs)
   - [Rust](Solutions/50-Pow_x_n.rs)
 
-### 51. NQueens
-- 📄 [Question](Questions/51-NQueens.md)
+### 51. N Queens
+- 📄 [Question](Questions/51-N_Queens.md)
 - 💻 Solutions:
   - [Rust](Solutions/51-NQueens.rs)
   - [Rust](Solutions/51-N_Queens.rs)
 
-### 52. NQueens II
-- 📄 [Question](Questions/52-NQueens_II.md)
+### 52. N Queens II
+- 📄 [Question](Questions/52-N_Queens_II.md)
 - 💻 Solutions:
   - [Rust](Solutions/52-NQueens_II.rs)
   - [Rust](Solutions/52-N_Queens_II.rs)
@@ -508,14 +508,14 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [C++](Solutions/3455-Shortest_Matching_Substring.cpp)
 
-### 3543. Maximum Weighted K-Edge Path
-- 📄 [Question](Questions/3543-Maximum_Weighted_K-Edge_Path.md)
+### 3543. Maximum Weighted K Edge Path
+- 📄 [Question](Questions/3543-Maximum_Weighted_K_Edge_Path.md)
 - 💻 Solutions:
   - [Python](Solutions/3543-Maximum_Weighted_K-Edge_Path.py)
   - [Python](Solutions/3543-Maximum_Weighted_K_Edge_Path.py)
 
-### 3754. Concatenate Non-Zero Digits and Multiply by Sum I
-- 📄 [Question](Questions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md)
+### 3754. Concatenate Non Zero Digits and Multiply by Sum I
+- 📄 [Question](Questions/3754-Concatenate_Non_Zero_Digits_and_Multiply_by_Sum_I.md)
 - 💻 Solutions:
   - [Go](Solutions/3754-Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.go)
   - [Go](Solutions/3754-Concatenate_Non_Zero_Digits_and_Multiply_by_Sum_I.go)
