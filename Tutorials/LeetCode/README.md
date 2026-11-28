@@ -43,8 +43,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Python](Solutions/8-String_to_Integer_atoi.py)
 
-### 9. Palindrome Number
-- 📄 [Question](Questions/9-Palindrome_Number.md)
+### 9. Palandrome Number
+- 📄 [Question](Questions/9-Palandrome_Number.md)
 - 💻 Solutions:
   - [Go](Solutions/9-Palandrome_Number.go)
   - [Go](Solutions/9-Palindrome_Number.go)
@@ -55,8 +55,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Java](Solutions/10-Regular_Expression_Matching.java)
   - [Python](Solutions/10-Regular_Expression_Matching.py)
 
-### 11. Container With Most Water
-- 📄 [Question](Questions/11-Container_With_Most_Water.md)
+### 11. Container with Most Water
+- 📄 [Question](Questions/11-Container_with_Most_Water.md)
 - 💻 Solutions:
   - [Python](Solutions/11-Container_With_Most_Water.py)
   - [Python](Solutions/11-Container_with_Most_Water.py)
@@ -66,8 +66,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [TypeScript](Solutions/12-Integer_to_Roman.ts)
 
-### 13. Roman to Integer
-- 📄 [Question](Questions/13-Roman_to_Integer.md)
+### 13. Roman To Integer
+- 📄 [Question](Questions/13-Roman_To_Integer.md)
 - 💻 Solutions:
   - [Rust](Solutions/13-Roman_To_Integer.rs)
   - [Rust](Solutions/13-Roman_to_Integer.rs)
@@ -130,8 +130,8 @@ There are multiple solutions for each question, these are my own solutions for t
   - [Python](Solutions/24-Swap_Nodes_in_Pairs.py)
   - [Rust](Solutions/24-Swap_Nodes_in_Pairs.rs)
 
-### 25. Reverse Nodes in k Group
-- 📄 [Question](Questions/25-Reverse_Nodes_in_k_Group.md)
+### 25. Reverse Nodes in k-Group
+- 📄 [Question](Questions/25-Reverse_Nodes_in_k-Group.md)
 - 💻 Solutions:
   - [Python](Solutions/25-Reverse_Nodes_in_k-Group.py)
   - [Python](Solutions/25-Reverse_Nodes_in_k_Group.py)
@@ -258,14 +258,14 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/49-Group_Anagrams.go)
 
-### 50. Pow x n
-- 📄 [Question](Questions/50-Pow_x_n.md)
+### 50. Pow(x, n)
+- 📄 [Question](Questions/50-Pow(x, n).md)
 - 💻 Solutions:
   - [Rust](Solutions/50-Pow(x, n).rs)
   - [Rust](Solutions/50-Pow_x_n.rs)
 
-### 51. N Queens
-- 📄 [Question](Questions/51-N_Queens.md)
+### 51. NQueens
+- 📄 [Question](Questions/51-NQueens.md)
 - 💻 Solutions:
   - [Rust](Solutions/51-NQueens.rs)
   - [Rust](Solutions/51-N_Queens.rs)
@@ -361,8 +361,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [Go](Solutions/391-Perfect_Rectangle.go)
 
-### 559. Maximum Depth of N-ary Tree
-- 📄 [Question](Questions/559-Maximum_Depth_of_N-ary_Tree.md)
+### 559. Maximum Depth of N ary Tree
+- 📄 [Question](Questions/559-Maximum_Depth_of_N_ary_Tree.md)
 - 💻 Solutions:
   - [Go](Solutions/559-Maximum_Depth_of_N-ary_Tree.go)
   - [Go](Solutions/559-Maximum_Depth_of_N_ary_Tree.go)
@@ -508,8 +508,8 @@ There are multiple solutions for each question, these are my own solutions for t
 - 💻 Solutions:
   - [C++](Solutions/3455-Shortest_Matching_Substring.cpp)
 
-### 3543. Maximum Weighted K-Edge Path
-- 📄 [Question](Questions/3543-Maximum_Weighted_K-Edge_Path.md)
+### 3543. Maximum Weighted K Edge Path
+- 📄 [Question](Questions/3543-Maximum_Weighted_K_Edge_Path.md)
 - 💻 Solutions:
   - [Python](Solutions/3543-Maximum_Weighted_K-Edge_Path.py)
   - [Python](Solutions/3543-Maximum_Weighted_K_Edge_Path.py)
